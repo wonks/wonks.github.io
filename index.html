@@ -141,7 +141,7 @@ layout: default
     {% for post in paginator.posts %}
       <li>
         <h2>{{ post.date | date: "%b %-d, %Y" }} -
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y.%m.%-d.}} {{ post.title }}</a>
           <small>{{ post.authors }}</small>
         </h2>
       </li>
