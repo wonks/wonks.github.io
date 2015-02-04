@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Verification and Refutation of Behavioral Contracts with Higher-Order Symbolic Execution</title>
+  <meta name="description" content="Abstract">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://wonks.github.io/contracts/vanhorn/spring2015/2015/01/15/dvanhorn-verification-refutation.html">
+  <link rel="alternate" type="application/rss+xml" title="PL Wonks" href="http://wonks.github.io/feed.xml" />
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/">PL Wonks</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        <a class="page=link" href="/spring2015/">Talks This Semester</a> |
+
+        <a class="page=link" href="/organizational/spring2015/2015/01/22/organizational-meeting.html">Semester Schedule</a> | 
+       
+        <a class="page=link" href="/talks.html">Archives</a>  
+          (<a href="/archives.html">By Category</a>)
+        <!-- 
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/kuper/index.html">Category archive for kuper</a>
+          
+        
+          
+          <a class="page-link" href="/lvars/index.html">Category archive for lvars</a>
+          
+        
+          
+          <a class="page-link" href="/spring2014/index.html">Category archive for spring2014</a>
+          
+        
+          
+          <a class="page-link" href="/securirty/index.html">Category archive for securirty</a>
+          
+        
+          
+          <a class="page-link" href="/fall2014/index.html">Category archive for fall2014</a>
+          
+        
+          
+          <a class="page-link" href="/bonnaire-sergeant/index.html">Category archive for bonnaire-sergeant</a>
+          
+        
+          
+          <a class="page-link" href="/clojure/index.html">Category archive for clojure</a>
+          
+        
+          
+          <a class="page-link" href="/wailes/index.html">Category archive for wailes</a>
+          
+        
+          
+          <a class="page-link" href="/amsden/index.html">Category archive for amsden</a>
+          
+        
+          
+          <a class="page-link" href="/cimini/index.html">Category archive for cimini</a>
+          
+        
+          
+          <a class="page-link" href="/holk/index.html">Category archive for holk</a>
+          
+        
+          
+          <a class="page-link" href="/vitousek/index.html">Category archive for vitousek</a>
+          
+        
+          
+          <a class="page-link" href="/kuhlenschmidt/index.html">Category archive for kuhlenschmidt</a>
+          
+        
+          
+          <a class="page-link" href="/bauman/index.html">Category archive for bauman</a>
+          
+        
+          
+          <a class="page-link" href="/naldurg/index.html">Category archive for naldurg</a>
+          
+        
+          
+          <a class="page-link" href="/kent/index.html">Category archive for kent</a>
+          
+        
+          
+          <a class="page-link" href="/narayanan/index.html">Category archive for narayanan</a>
+          
+        
+          
+          <a class="page-link" href="/siek/index.html">Category archive for siek</a>
+          
+        
+          
+          <a class="page-link" href="/contracts/index.html">Category archive for contracts</a>
+          
+        
+          
+          <a class="page-link" href="/vanhorn/index.html">Category archive for vanhorn</a>
+          
+        
+          
+          <a class="page-link" href="/spring2015/index.html">Category archive for spring2015</a>
+          
+        
+          
+          <a class="page-link" href="/organizational/index.html">Category archive for organizational</a>
+          
+        
+          
+          <a class="page-link" href="/gradualtyping/index.html">Category archive for gradualtyping</a>
+          
+         -->
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Verification and Refutation of Behavioral Contracts with Higher-Order Symbolic Execution</h1>
+    <h3>David Van Horn</h3>
+
+    <p class="post-meta">Jan 15, 2015</p>
+  </header>
+
+  <article class="post-content">
+    <h2 id="abstract">Abstract</h2>
+
+<p>Behavioral software contracts are a widely used mechanism for
+governing the flow of values between components. However, run-time
+monitoring and enforcement of contracts imposes significant overhead
+and delays discovery of faulty components to run-time.</p>
+
+<p>In this talk, I will present our work on soft contract verification,
+which overcomes the above issues by proving contract correctness or
+producing a counterexample.</p>
+
+<p>The approach is able to analyze first-class contracts, recursive data
+structures, unknown functions, and control-flow-sensitive refinements
+of values, which are all idiomatic in dynamic languages. It makes
+effective use of an off-the-shelf solver to decide problems without
+heavy encodings.  Our theoretical results include soundness and
+relative completeness.  The approach is competitive with a wide range
+of existing tools---including type systems, flow analyzers, and model
+checkers---on their own benchmarks.</p>
+
+<p>Joint work with Phuc C. Nguyen (UMD) and Sam Tobin-Hochstadt (IU)</p>
+
+  </article>
+
+  <b>Categories:</b>    
+  
+    <a href="/contracts/">contracts</a>
+  
+    <a href="/vanhorn/">vanhorn</a>
+  
+    <a href="/spring2015/">spring2015</a>
+  
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">PL Wonks</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li>PL Wonks</li>
+          <li><a href="mailto:cswords@umail.iu.com">cswords@umail.iu.com</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+          
+
+          
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        <p class="text">A collection of programming language enthusiasts from Indiana University.
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

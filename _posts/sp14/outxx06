@@ -1,0 +1,21 @@
+--- 
+layout:  post 
+title:   "Derailer: Interactive Security Analysis for Web Applications"
+authors: "Joe Near" 
+date:    2014-09-05 04:15:00 
+categories: Securirty Spring2014
+--- 
+## Abstract
+
+==== Mar. 14: LVars: Lattice-based Data Structures for Deterministic Parallel and Distributed Programming ====
+
+Speaker: Lindsey Kuper
+
+Abstract:
+
+Parallel programming is notoriously difficult.  A fundamental reason for this difficulty is that unpredictable interactions between parallel tasks lead to subtle, hard-to-reproduce nondeterministic bugs. Deterministic-by-construction parallel programming models promise freedom from those bugs, but to do so they must sharply restrict the sharing of state between parallel tasks.  Shared state, if it is allowed at all, is typically restricted to a single type of shared data structure, such as single-assignment locations or blocking FIFO queues.
+
+In this talk, I'll describe my work on a new model for guaranteed-deterministic parallel programming based on lattice-based data structures, or LVars.  LVars generalize existing single-assignment models to allow multiple assignments that are monotonically increasing with respect to a lattice, making possible a more general form of communication between tasks.  LVars ensure determinism by allowing only monotonic writes and "threshold" reads that block until a lower bound is reached, preventing the order of writes from being observed.
+
+After presenting the basic LVars model, I'll discuss several extensions to the model that enable an expressive and useful style of parallel programming while maintaining the determinism guarantee. I'll show how these extensions are realized in practice in LVish, a library for guaranteed-deterministic parallel programming with LVars. Finally, I'll discuss my ongoing work on the relationship between LVars and conflict-free replicated data types for eventually consistent distributed systems.
+

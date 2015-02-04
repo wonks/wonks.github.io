@@ -1,0 +1,21 @@
+--- 
+layout:  post 
+title:   "MACE: Detecting Privilege Escalation Vulnerabilities in Web Applications"
+authors: "Prasad Naldurg" 
+date:    2014-11-07 04:15:00 
+categories: Naldurg Fall2014
+--- 
+## Abstract
+
+We explore the problem of privilege escalation in web applications,
+vulnerabilities that are typically caused by missing or incorrect
+authorizations. In the absence of an access control policy specification in
+these applications, our key insight is to compute what we call the authorization
+state associated with each access request, using program analysis. Checking this
+computed state for correctness and consistency across different access requests
+helps us uncover vulnerabilities that can be exploited as privilege escalation
+attacks. We implement our techniques in MACE, a tool that works on large
+codebases, and discovers serious vulnerabilities in 5 out of 7 web applications
+that were previously unknown, replacing weeks of human effort and manual code
+inspection.
+

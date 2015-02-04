@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PL Wonks</title>
+    <description>A collection of programming language enthusiasts from Indiana University.
+</description>
+    <link>http://wonks.github.io/</link>
+    <atom:link href="http://wonks.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 03 Feb 2015 20:38:31 -0500</pubDate>
+    <lastBuildDate>Tue, 03 Feb 2015 20:38:31 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Refined Criteria for Gradual Typing</title>
+        <description>&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Siek and Taha [2006] coined the term gradual typing to describe
+a technical approach to integrating static and dynamic typing within a
+single language that 1) puts the programmer in control of which
+regions of code are statically or dynamically typed, and 2) enables
+the gradual migration of code between the two typing
+disciplines. Since 2006, the term gradual typing has become
+quite popular but its meaning has become diluted to encompass anything
+related to the integration of static and dynamic typing. This dilution
+is partly the fault of the original paper, which provided an
+incomplete formal characterization of what it means to be gradually
+typed. In this talk I draw a crisp line in the sand,
+articulating a new formal property, named the gradual
+guarantee, that relates the behavior of programs that differ only
+with respect to the precision of their type annotations.  I argue
+that the gradual guarantee provides important guidance for designers
+of gradually-typed languages. I survey the gradual typing literature,
+critiquing designs in light of the gradual guarantee. I report on a
+mechanized proof that the gradual guarantee holds for the
+Gradually-Typed Lambda Calculus.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Jan 2015 23:15:00 -0500</pubDate>
+        <link>http://wonks.github.io/gradualtyping/siek/spring2015/2015/01/28/jsiek-refined-criteria.html</link>
+        <guid isPermaLink="true">http://wonks.github.io/gradualtyping/siek/spring2015/2015/01/28/jsiek-refined-criteria.html</guid>
+        
+        
+        <category>gradualtyping</category>
+        
+        <category>siek</category>
+        
+        <category>spring2015</category>
+        
+      </item>
+    
+      <item>
+        <title>Semester Organizational Meeting</title>
+        <description>&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;This week we&amp;#39;ll be gathering to assign a schedule for this semester.&lt;/p&gt;
+
+&lt;h2 id=&quot;schedule&quot;&gt;Schedule&lt;/h2&gt;
+
+&lt;table&gt;&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/th&gt;
+&lt;th style=&quot;text-align: left&quot;&gt;Speaker&lt;/th&gt;
+&lt;th style=&quot;text-align: left&quot;&gt;Baker&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1 / 30&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Jeremy Siek&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Ambrose&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2 /  6&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Eric Holk&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Tori&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2 / 13&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Aaron Hsu&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Chris Wailes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2 / 20&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Andre K&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Dan Friedman (Square Donuts)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2 / 27&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;ICFP DUE - WONKS CANCELLED&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3 /  6&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Ambrose&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Matteo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3 / 13&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Wren&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Peter Fogg&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3 / 20&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;SPRING BREAK&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3 / 27&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Cameron Swords&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Eric Holk&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4 /  3&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Mike Vitousek *&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Cameron Swords&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4 / 10&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Andrew Kent&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Matteo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4 / 17&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Peter Fogg&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;David Kempe&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4 / 24&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Tim Zakian&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Jaime&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5 /  1&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Dan&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;Tim Zakian&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;p&gt;*: Practice Talk&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Jan 2015 23:15:00 -0500</pubDate>
+        <link>http://wonks.github.io/organizational/spring2015/2015/01/22/organizational-meeting.html</link>
+        <guid isPermaLink="true">http://wonks.github.io/organizational/spring2015/2015/01/22/organizational-meeting.html</guid>
+        
+        
+        <category>organizational</category>
+        
+        <category>spring2015</category>
+        
+      </item>
+    
+      <item>
+        <title>Verification and Refutation of Behavioral Contracts with Higher-Order Symbolic Execution</title>
+        <description>&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Behavioral software contracts are a widely used mechanism for
+governing the flow of values between components. However, run-time
+monitoring and enforcement of contracts imposes significant overhead
+and delays discovery of faulty components to run-time.&lt;/p&gt;
+
+&lt;p&gt;In this talk, I will present our work on soft contract verification,
+which overcomes the above issues by proving contract correctness or
+producing a counterexample.&lt;/p&gt;
+
+&lt;p&gt;The approach is able to analyze first-class contracts, recursive data
+structures, unknown functions, and control-flow-sensitive refinements
+of values, which are all idiomatic in dynamic languages. It makes
+effective use of an off-the-shelf solver to decide problems without
+heavy encodings.  Our theoretical results include soundness and
+relative completeness.  The approach is competitive with a wide range
+of existing tools---including type systems, flow analyzers, and model
+checkers---on their own benchmarks.&lt;/p&gt;
+
+&lt;p&gt;Joint work with Phuc C. Nguyen (UMD) and Sam Tobin-Hochstadt (IU)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Jan 2015 23:15:00 -0500</pubDate>
+        <link>http://wonks.github.io/contracts/vanhorn/spring2015/2015/01/15/dvanhorn-verification-refutation.html</link>
+        <guid isPermaLink="true">http://wonks.github.io/contracts/vanhorn/spring2015/2015/01/15/dvanhorn-verification-refutation.html</guid>
+        
+        
+        <category>contracts</category>
+        
+        <category>vanhorn</category>
+        
+        <category>spring2015</category>
+        
+      </item>
+    
+      <item>
+        <title>The Essence of Closure Conversion</title>
+        <description>&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;The interaction between lexical scoping of variables and first-class functions,
+as found in all functional programming languages, is rather subtle and
+interesting, especially if you want to compile the language to assembly code.
+For some reason, computer architects have yet to include first-class functions
+with lexical scoping in modern computers! In this talk I&amp;#39;ll try to capture the
+essence of compiling from a language with lexical scoping and first-class
+functions to a language without lexical scoping (but unusually, still with
+first-class functions).&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Dec 2014 23:15:00 -0500</pubDate>
+        <link>http://wonks.github.io/siek/fall2014/2014/12/11/closure-conv.html</link>
+        <guid isPermaLink="true">http://wonks.github.io/siek/fall2014/2014/12/11/closure-conv.html</guid>
+        
+        
+        <category>siek</category>
+        
+        <category>fall2014</category>
+        
+      </item>
+    
+      <item>
+        <title>A Combinator Library for MCMC Sampling</title>
+        <description>&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;In this talk I will present an initial version of a Haskell library designed to
+ease the construction and use of MCMC samplers. I will first introduce the MCMC
+method and motivate its application on a concrete example - the Gaussian Mixture
+Model (GMM). I will then describe an MCMC sampler for a GMM, and show how this
+sampler can be made more modular by using combinators from the library. The goal
+is to convince the audience of the benefits of applying paradigms such as higher
+order functions and lazy evaluation to the domain of MCMC sampling. No prior
+experience with MCMC samplers is required, and questions are strongly
+encouraged.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Nov 2014 23:15:00 -0500</pubDate>
+        <link>http://wonks.github.io/narayanan/fall2014/2014/11/20/mcmc-combs.html</link>
+        <guid isPermaLink="true">http://wonks.github.io/narayanan/fall2014/2014/11/20/mcmc-combs.html</guid>
+        
+        
+        <category>narayanan</category>
+        
+        <category>fall2014</category>
+        
+      </item>
+    
+      <item>
+        <title>An Introduction to Dependently Typed Racket</title>
+        <description>&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Typed Racket is a gradually typed dialect of Racket that seeks to accommodate
+common typed-based reasoning used in untyped languages, while requiring few
+changes to the code itself. However, thus far Typed Racket has only supported
+formally reasoning about relatively simple types. In this informal talk I will
+briefly review the base calculus for this system (λTR) and illustrate how
+decidable dependent types (such as those found in Dependent ML) are a natural
+extension to the calculus.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Nov 2014 23:15:00 -0500</pubDate>
+        <link>http://wonks.github.io/kent/fall2014/2014/11/13/dep-typed-racket.html</link>
+        <guid isPermaLink="true">http://wonks.github.io/kent/fall2014/2014/11/13/dep-typed-racket.html</guid>
+        
+        
+        <category>kent</category>
+        
+        <category>fall2014</category>
+        
+      </item>
+    
+      <item>
+        <title>MACE: Detecting Privilege Escalation Vulnerabilities in Web Applications</title>
+        <description>&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;We explore the problem of privilege escalation in web applications,
+vulnerabilities that are typically caused by missing or incorrect
+authorizations. In the absence of an access control policy specification in
+these applications, our key insight is to compute what we call the authorization
+state associated with each access request, using program analysis. Checking this
+computed state for correctness and consistency across different access requests
+helps us uncover vulnerabilities that can be exploited as privilege escalation
+attacks. We implement our techniques in MACE, a tool that works on large
+codebases, and discovers serious vulnerabilities in 5 out of 7 web applications
+that were previously unknown, replacing weeks of human effort and manual code
+inspection.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Nov 2014 23:15:00 -0500</pubDate>
+        <link>http://wonks.github.io/naldurg/fall2014/2014/11/06/mace.html</link>
+        <guid isPermaLink="true">http://wonks.github.io/naldurg/fall2014/2014/11/06/mace.html</guid>
+        
+        
+        <category>naldurg</category>
+        
+        <category>fall2014</category>
+        
+      </item>
+    
+      <item>
+        <title>Pycket: an implementation of Racket in RPython</title>
+        <description>&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;While object-oriented languages often make use of advanced just-in-time
+compilers for fast execution, functional languages typically rely on ahead of
+time compilers. Currently, there are no good JIT compilers for the Scheme family
+of languages, despite their successful application to other dynamic languages.
+In this talk, I will present Pycket; an implementation of Racket in RPython
+which makes use of the meta-tracing JIT infrastructure used by the Pypy project.
+The goal of Pycket is to provide a fast Racket implementation which can elide
+the overhead of traditionally difficult features like continuations, multiple
+return values, and Racket&amp;#39;s contract system.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 31 Oct 2014 00:15:00 -0400</pubDate>
+        <link>http://wonks.github.io/bauman/fall2014/2014/10/31/pycket.html</link>
+        <guid isPermaLink="true">http://wonks.github.io/bauman/fall2014/2014/10/31/pycket.html</guid>
+        
+        
+        <category>bauman</category>
+        
+        <category>fall2014</category>
+        
+      </item>
+    
+      <item>
+        <title>A Compiler for the Gradually-Typed Lambda Calculus</title>
+        <description>&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;There are still many open problems in gradual typing. While there seems to be a
+fairly common static semantics the Gradually-Typed Lambda Calculus, there are a
+myriad of dynamic semantics all aimed at solving various problems that occur
+when you start mixing static and dynamic types. I will talk informally about the
+motivations for various dynamic semantics, explain how they relate to and differ
+from one another, and talk about open problems with each of them. I will then
+introduce the compiler that I am working on for the GTLC and my hopes for what
+we may learn from it.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Oct 2014 00:15:00 -0400</pubDate>
+        <link>http://wonks.github.io/kuhlenschmidt/fall2014/2014/10/24/grad-typed-compiler.html</link>
+        <guid isPermaLink="true">http://wonks.github.io/kuhlenschmidt/fall2014/2014/10/24/grad-typed-compiler.html</guid>
+        
+        
+        <category>kuhlenschmidt</category>
+        
+        <category>fall2014</category>
+        
+      </item>
+    
+      <item>
+        <title>Design and evaluation of gradual typing for Python</title>
+        <description>&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;I will discuss Reticulated Python, a system for experimenting with gradual-typed
+dialects of Python. It is syntactically identical to Python 3 but gives static
+and dynamic semantics to the type annotations already present in Python 3.
+Reticulated Python consists of a typechecker and a source-to-source translator
+from Reticulated Python to Python 3. Using Reticulated Python, we evaluated a
+gradual type system and three approaches to the dynamic semantics of mutable
+objects: the traditional semantics based on Siek and Taha (2007) and Herman et
+al. (2007) and two new designs. We evaluated these designs in the context of
+several third-party Python programs.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Oct 2014 00:15:00 -0400</pubDate>
+        <link>http://wonks.github.io/vitousek/fall2014/2014/10/17/python.html</link>
+        <guid isPermaLink="true">http://wonks.github.io/vitousek/fall2014/2014/10/17/python.html</guid>
+        
+        
+        <category>vitousek</category>
+        
+        <category>fall2014</category>
+        
+      </item>
+    
+  </channel>
+</rss>

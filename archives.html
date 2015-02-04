@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="home">
+  
+  <h1 class="page-heading">Archives by Category</h1>
+ 
+
+  {% for category in site.categories %}
+    <h3>{{ category | first }}</h3>
+      <ul>
+      {% for posts in category %}
+      {% for post in posts %}
+         {% if post.title %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+         {% endif %}
+        {% endfor %}
+      {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+
+
+</div>

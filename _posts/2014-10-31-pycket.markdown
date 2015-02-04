@@ -1,0 +1,18 @@
+--- 
+layout:  post 
+title:   "Pycket: an implementation of Racket in RPython"
+authors: "Spenser Bauman" 
+date:    2014-10-31 04:15:00 
+categories: Bauman Fall2014
+--- 
+## Abstract
+
+While object-oriented languages often make use of advanced just-in-time
+compilers for fast execution, functional languages typically rely on ahead of
+time compilers. Currently, there are no good JIT compilers for the Scheme family
+of languages, despite their successful application to other dynamic languages.
+In this talk, I will present Pycket; an implementation of Racket in RPython
+which makes use of the meta-tracing JIT infrastructure used by the Pypy project.
+The goal of Pycket is to provide a fast Racket implementation which can elide
+the overhead of traditionally difficult features like continuations, multiple
+return values, and Racket's contract system.
