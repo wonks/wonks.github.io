@@ -6,8 +6,9 @@ date:    2013-10-25 04:15:00
 categories: PLFest Fall2013
 --- 
 
-| **SESS 1** | **Session Chair: Sam Tobin-Hochstadt, Location: IMU State Room East** |
+| Time          | Talk                                                               |
 |---------------|--------------------------------------------------------------------|
+| **SESS 1** | **Session Chair: Sam Tobin-Hochstadt, Location: IMU State Room East** |
 | 09:00-09:30   |  Programming GPU/CPU systems with Harlan (Eric Holk, Indiana)      |
 | 09:30-10:00   |  Program obfuscation by distorted interpreter specialization (Neil Jones, DIKU) |
 | **SESS 2** | **Session Chair: Eric Holk, Location: IMU State Room East** |
