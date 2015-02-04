@@ -1,0 +1,16 @@
+--- 
+layout:  post 
+title:   "Extending Concurrent Collections"
+authors: "Aaron Hsu" 
+date:    2012-03-02 04:15:00 
+categories: Hsu Spring2012
+--- 
+## Abstract
+
+Concurrent Collections is a dataflow style parallel programming model that  
+utilizes single-assignment global stores to achieve deterministic behavior.  
+It allows one to describe task parallelism through high-level, declarative  
+descriptions.  In this talk I will introduce CnC and describe my research in 
+extending the language to enable richer analysis of the data access patterns 
+described by CnC programs. Hopefully, there will also be a demo.            
+
