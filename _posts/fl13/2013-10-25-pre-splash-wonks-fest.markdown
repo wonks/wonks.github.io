@@ -1,6 +1,6 @@
 --- 
 layout:  post 
-title:   "Pre-OOPSLA PL-Fest"
+title:   "Pre-SPLASH PL-Fest"
 authors: "Wonks General" 
 date:    2013-10-25 04:15:00 
 categories: PLFest Fall2013
