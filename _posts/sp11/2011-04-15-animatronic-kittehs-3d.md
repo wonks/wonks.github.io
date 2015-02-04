@@ -6,5 +6,5 @@ date:    2011-04-15 04:15:00
 categories: Byrd Spring2011
 --- 
 
-(Video)[http://vimeo.com/23254348]
+[Video](http://vimeo.com/23254348)
 
