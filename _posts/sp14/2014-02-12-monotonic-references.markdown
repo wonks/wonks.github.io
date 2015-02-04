@@ -1,17 +1,11 @@
 --- 
 layout:  post 
-title:   "Derailer: Interactive Security Analysis for Web Applications"
-authors: "Joe Near" 
-date:    2014-09-05 04:15:00 
-categories: Securirty Spring2014
+title:   "Monotonic References for Gradual Typing"
+authors: "Jeremy Siek" 
+date:    2014-02-12 04:15:00 
+categories: Siek GradualTyping Spring2014
 --- 
 ## Abstract
-
-==== Feb. 12: Monotonic References for Gradual Typing ====
-
-Speaker: Jeremy Siek
-
-Abstract:
 
 Gradual type systems enable the use of both static and dynamic type
 checking within a single program.  In such systems, it is important to
