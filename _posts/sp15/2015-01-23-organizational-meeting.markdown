@@ -16,7 +16,7 @@ This week we'll be gathering to assign a schedule for this semester.
 | 1 / 30 | Jeremy Siek                 | Ambrose                        |
 | 2 /  6 | Eric Holk                   | Tori                           |
 | 2 / 13 | Aaron Hsu                   | Chris Wailes                   |
-| 2 / 20 | Tim Zakian                  | Dan Friedman (Square Donuts)   |
+| 2 / 20 | Tim Zakian*                 | Dan Friedman (Square Donuts)   |
 | 2 / 27 | ICFP DUE - WONKS CANCELLED  |                                |
 | 3 /  6 | Ambrose                     | Matteo                         |
 | 3 / 13 | Wren                        | Peter Fogg                     |
