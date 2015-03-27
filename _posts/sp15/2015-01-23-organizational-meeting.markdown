@@ -23,8 +23,8 @@ This week we'll be gathering to assign a schedule for this semester.
 | 3 / 20 | SPRING BREAK                |                                |
 | 3 / 27 | Cameron Swords              | Eric Holk                      |
 | 4 /  3 | Mike Vitousek *             | Cameron Swords                 |
-| 4 / 10 | Andrew Kent                 | Matteo                         |
-| 4 / 17 | Peter Fogg                  | David Kempe                    |
+| 4 / 10 | Peter Fogg                  | Matteo                         |
+| 4 / 17 | Andrew Kent                 | David Kempe                    |
 | 4 / 24 | Andre Kuhlenschmidt         | Jaime                          |
 | 5 /  1 | Dan                         | Tim Zakian                     |
 
