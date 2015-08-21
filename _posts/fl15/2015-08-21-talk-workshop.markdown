@@ -17,6 +17,8 @@ additional time in the schedule is for practice talk feedback. We will be using
 [github.iu.edu](http://github.iu.edu) to accumulate talk feedback.  If you
 haven’t logged in to initialize your account, please do so now.
 
+[Feedback Link](https://github.com/iu-parfunc/ICFP_rehearsal_temp/issues)
+
 # Talk Schedule
 
 ## Session 1
