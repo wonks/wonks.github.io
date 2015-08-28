@@ -13,22 +13,22 @@ This week we'll be gathering to assign a schedule for this semester.
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;   | Speaker                     | Baker                          |
 |---------|:----------------------------|:-------------------------------|
-|  9 /  4 | Low Attendance - ICFP       |                                |
-|  9 / 11 |                             |                                |
-|  9 / 18 |                             |                                |
-|  9 / 25 |                             |                                |
-| 10 /  2 |                             |                                |
-| 10 /  9 |                             |                                |
-| 10 / 16 |                             |                                |
-| 10 / 23 |                             |                                |
-| 10 / 30 |                             |                                |
-| 11 /  6 |                             |                                |
-| 11 / 13 |                             |                                |
-| 11 / 20 | THANKSGIVING - NO TALK      |                                |
-| 11 / 27 |                             |                                |
-| 12 /  4 | Jason Hemann                |                                |
-| 12 / 11 |                             |                                |
-| 12 / 18 |                             |                                |
+|  9 /  4 | Low Attendance - ICFP ||
+|  9 / 11 | Ambrose B-S                 | Tori Lewis                     |
+|  9 / 18 | Matteo Cimini               | Chris Wailes                   |
+|  9 / 25 | Praveen Narayanan           | David Kempe                    |
+| 10 /  2 | Andrew / Andre              | Cameron Swords                 |
+| 10 /  9 | Fall Break (?) ||
+| 10 / 16 | FLEX DAY                    | Tori Lewis                     |
+| 10 / 23 | Mike Vollmer                | Ed Amsden                      |
+| 10 / 30 | Rob Zinkov                  | Kyle Carter                    |
+| 11 /  6 | Mike Vitousek               | Matteo Cimini                  |
+| 11 / 13 | Wei                         | Tori Lewis                     |
+| 11 / 20 | Chris Wailes                | Mike Vitousek                  |
+| 11 / 27 | THANKSGIVING - NO TALK ||
+| 12 /  4 | Jason Hemann                | Andre K                        |
+| 12 / 11 | Kyle Carter                 | Wei                            |
+| 12 / 18 | POPL PRATICE TALKS ||
 
 *: Practice Talk
 
