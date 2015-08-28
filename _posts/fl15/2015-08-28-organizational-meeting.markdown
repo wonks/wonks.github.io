@@ -17,7 +17,7 @@ This week we'll be gathering to assign a schedule for this semester.
 |  9 / 11 | Ambrose B-S                 | Tori Lewis                     |
 |  9 / 18 | Matteo Cimini               | Chris Wailes                   |
 |  9 / 25 | Praveen Narayanan           | David Kempe                    |
-| 10 /  2 | Andrew / Andre              | Cameron Swords                 |
+| 10 /  2 | Adit Shah                   | Cameron Swords                 |
 | 10 /  9 | FALL BREAK - NO TALK ||
 | 10 / 16 | FLEX DAY                    | Tori Lewis                     |
 | 10 / 23 | Mike Vollmer                | Ed Amsden                      |
