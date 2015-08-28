@@ -13,12 +13,12 @@ This week we'll be gathering to assign a schedule for this semester.
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;   | Speaker                     | Baker                          |
 |---------|:----------------------------|:-------------------------------|
-|  9 /  4 | Low Attendance - ICFP ||
+|  9 /  4 | ICFP  - NO TALK ||
 |  9 / 11 | Ambrose B-S                 | Tori Lewis                     |
 |  9 / 18 | Matteo Cimini               | Chris Wailes                   |
 |  9 / 25 | Praveen Narayanan           | David Kempe                    |
 | 10 /  2 | Andrew / Andre              | Cameron Swords                 |
-| 10 /  9 | Fall Break (?) ||
+| 10 /  9 | FALL BREAK - NO TALK ||
 | 10 / 16 | FLEX DAY                    | Tori Lewis                     |
 | 10 / 23 | Mike Vollmer                | Ed Amsden                      |
 | 10 / 30 | Rob Zinkov                  | Kyle Carter                    |
