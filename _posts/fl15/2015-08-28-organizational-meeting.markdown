@@ -19,8 +19,8 @@ This week we'll be gathering to assign a schedule for this semester.
 |  9 / 25 | Praveen Narayanan           | David Kempe                    |
 | 10 /  2 | Adit Shah                   | Cameron Swords                 |
 | 10 /  9 | FALL BREAK - NO TALK ||
-| 10 / 16 | FLEX DAY                    | Tori Lewis                     |
-| 10 / 23 | Mike Vollmer                | Ed Amsden                      |
+| 10 / 16 | FLEX DAY                    | Ed Amsden                      |
+| 10 / 23 | Mike Vollmer                | Tori Lewis                     |
 | 10 / 30 | Rob Zinkov                  | Kyle Carter                    |
 | 11 /  6 | Mike Vitousek               | Matteo Cimini                  |
 | 11 / 13 | Wei                         | Tori Lewis                     |
