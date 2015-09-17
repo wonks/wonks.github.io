@@ -3,7 +3,7 @@ layout:  post
 title:   "A methodology, conceptual procedures and a supporting tool for Gradual Typing"
 authors: "Matteo Cimini" 
 date:    2015-09-18 04:15:00 
-categories: Cimini Spring2015
+categories: Cimini Fall2015
 --- 
 ## Abstract
 

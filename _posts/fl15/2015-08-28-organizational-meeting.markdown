@@ -3,7 +3,7 @@ layout:  post
 title:   "Semester Organizational Meeting"
 authors: "Wonks General" 
 date:    2015-08-28 04:15:00 
-categories: Organizational Spring2015
+categories: Organizational Fall2015
 --- 
 ## Description
 

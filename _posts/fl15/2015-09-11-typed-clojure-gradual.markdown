@@ -3,7 +3,7 @@ layout:  post
 title:   "Typed Clojure: From Optional to Gradual Typing"
 authors: "Ambrose Bonnaire-Sergeant" 
 date:    2015-09-11 04:15:00 
-categories: Bonnaire-Sergeant Spring2015
+categories: Bonnaire-Sergeant Fall2015
 --- 
 ## Abstract
 
