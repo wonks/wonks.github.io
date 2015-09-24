@@ -16,8 +16,8 @@ This week we'll be gathering to assign a schedule for this semester.
 |  9 /  4 | ICFP  - NO TALK ||
 |  9 / 11 | Ambrose B-S                 | Tori Lewis                     |
 |  9 / 18 | Matteo Cimini               | Chris Wailes                   |
-|  9 / 25 | FLEX DAY                    | David Kempe                    |
-| 10 /  2 | Adit Shah                   | Cameron Swords                 |
+|  9 / 25 | Adit Shah                   | David Kempe                    |
+| 10 /  2 | FLEX DAY                    | Cameron Swords                 |
 | 10 /  9 | FALL BREAK - NO TALK ||
 | 10 / 16 | Praveen Narayanan           | Ed Amsden                      |
 | 10 / 23 | Mike Vollmer                | Tori Lewis                     |
