@@ -1,0 +1,15 @@
+--- 
+layout:  post 
+title:   "Probabilistic Programming in Hakaru"
+authors: "Praveen Narayanan" 
+date:    2015-10-16 04:15:00 
+categories: Narayanan Probabilistic Fall2015
+--- 
+## Abstract
+
+I will present version 0.2.0 of Hakaru, Indiana’s very own probabilistic
+programming system. Using examples, I will explain the workflow of a typical
+Hakaru user, and show the outputs of program transformations. These
+transformations are novel in probabilistic computing — if time permits we can
+peek into the inner workings of the disintegration transformation. I will keep
+statistics to a minimum, explaining necessary details along the way.
