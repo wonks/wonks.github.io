@@ -18,3 +18,5 @@ programs to be implicitly distributed across multiple devices.
 
 In this talk, I will discuss different functional array representations and
 describe how to implement fusion and fissioning.
+
+The presentation slides are available here: http://vollmerm.github.io/FizzFuseArrays/slides.pdf
