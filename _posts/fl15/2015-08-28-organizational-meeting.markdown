@@ -28,7 +28,7 @@ This week we'll be gathering to assign a schedule for this semester.
 | 11 / 27 | THANKSGIVING - NO TALK ||
 | 12 /  4 | Jason Hemann                | Andre K                        |
 | 12 / 11 | Kyle Carter                 | Wei                            |
-| 12 / 18 | POPL PRATICE TALKS ||
+| 12 / 18 | Winter BREAK - NO TALK ||
 
 *: Practice Talk
 
