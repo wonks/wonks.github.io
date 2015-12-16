@@ -26,9 +26,9 @@ This week we'll be gathering to assign a schedule for this semester.
 | 11 / 13 | Wei                         | Tori Lewis                     |
 | 11 / 20 | Chris Wailes                | Mike Vitousek                  |
 | 11 / 27 | THANKSGIVING - NO TALK ||
-| 12 /  4 | Jason Hemann                | Andre K                        |
+| 12 /  4 | MIDWEST PL SUMMIT - NO TALK ||
 | 12 / 11 | Kyle Carter                 | Wei                            |
-| 12 / 18 | Winter BREAK - NO TALK ||
+| 12 / 18 | WINTER BREAK - NO TALK ||
 
 *: Practice Talk
 

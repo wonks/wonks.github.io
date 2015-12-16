@@ -1,0 +1,16 @@
+--- 
+layout:  post 
+title:   "Drag"
+authors: "Weixi Ma" 
+date:    2015-11-13 04:15:00 
+categories: Ma Fall2015
+--- 
+## Abstract
+
+Drag is a programming language that allows programmers to build ASTs in a
+drag-n-drop fashion.
+
+Here we present a minimal and experimental prototype of Drag, which is
+implemented on Racket and JavaScript. Out talk is gonna walk through the power
+and convenience that comes from Drag, as well as the limitations of Drag
+comparing to traditional textual programming languages.
