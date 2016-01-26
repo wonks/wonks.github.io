@@ -21,7 +21,7 @@ This week we'll be gathering to assign a schedule for this semester.
 | 2 / 26 | Omer Agacan                 | David Kempe                    |
 | 3 /  4 | Flex Day                    |                                |
 | 3 / 11 | Jason Hemann                | Doctor Matteo Cimini, Ph.D.    |
-| 3 / 18 | **~~~~!!!~~~~ SPRING ~~!!~~ BREAK ~~~~!!11111!~~~** xD #yosboy #sostoked ||
+| 3 / 18 | **SPRING BREAK** (No Wonks) ||
 | 3 / 25 | Ambrose BS                  | Jason Hemann                   |
 | 4 /  1 | [ESOP] Aaron Hsu            | Aaron Hsu                      |
 | 4 /  8 | Mike Vollmer                | Chris Wailes                   |
