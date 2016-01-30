@@ -14,3 +14,5 @@ such as programming languages, type systems, program logics, and program
 analyses. This week I will give an informal tutorial introducing Redex and
 briefly describe a few published research projects which have utilized it in
 some way.
+
+[Code](https://github.com/andmkent/talks/blob/master/iu-pl-wonks/wonks-redex-tutorial-jan2016.rkt) from the tutorial.
