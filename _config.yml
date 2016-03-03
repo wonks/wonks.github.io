@@ -5,11 +5,10 @@ description: > # this means to ignore newlines until "baseurl:"
   A collection of programming language enthusiasts from Indiana University.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://wonks.github.io" # the base hostname & protocol for your site
-#twitter_username: cameronswords
-#github_username:  cgswords
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
+future : true # so that pages in the future get built
 highlighter: pygments
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
