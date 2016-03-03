@@ -10,7 +10,7 @@ categories: Romano Spring2016
 
 One of the properties we like in our calculi is strong normalization. One of the
 most fruitful techniques for proving strong normalization is Tait's method and
-extensions to it, such as Girard's Candidats De Reductibilité, logical
+extensions to it, such as Girard's *Candidats De Reductibilite*, logical
 predicates/relations, etc. But what about when the technique doesn't work? For
 example, your calculus has a single rule which eliminates multiple connectives.
 The folkloric response is “don't do that”, but we cannot always avoid doing so.
