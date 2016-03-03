@@ -8,8 +8,8 @@ url: "http://wonks.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
-future : true # so that pages in the future get built
-highlighter: pygments
+future : true # so that pages in the future get built; doesn't work :/
+highlighter: rouge
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
