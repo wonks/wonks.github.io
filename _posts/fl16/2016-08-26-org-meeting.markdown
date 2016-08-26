@@ -12,21 +12,20 @@ This week we'll be gathering to assign a schedule for this semester.
 ## Schedule
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;   | Speaker                     | Baker                          |
-|--------|:----------------------------|:-------------------------------|
-| 9 /  2 | Ken's Practice Talks I      |                                |
-| 9 /  9 | Ken's Practice Talks II     |                                |
-| 9 / 16 | Michael Mendler             | Mike Vitousek                  |
-| 9 / 23 |                             |                                |
-| 9 / 30 |                             |                                |
-|10 /  7 | Matteo Cimini               |                                |
-|10 / 14 |                             | Matteo Cimini                  |
-|10 / 21 |                             |                                |
-|10 / 28 |                             |                                |
-|11 /  4 |                             |                                |
-|11 / 11 |                             |                                |
-|11 / 18 |                             | Matteo Cimini                  |
-|11 / 25 | **THANKSGIVING** (No Wonks) ||
-|12 /  2 |                             |                                |
-|12 /  9 | FLEX DAY (POPL Practice?)   |                                |
-|12 / 16 | [FINALS WEEK]               |                                |
-
+|--------|:--------------------------------------------------|:-------------------------------|
+| 9 /  2 | Ken's Practice Talks I (David + Jason)            | Chris Wailes                   |
+| 9 /  9 | Ken's Practice Talks II (Trevor + Wazim)          | Weixi Ma                       |
+| 9 / 16 | Michael Mendler                                   | Mike Vitousek                  |
+| 9 / 23 | Cameron Swords                                    | Andrew Kent                    |
+| 9 / 30 | Mike Vollmer                                      | Matt H                         |
+|10 /  7 | Matteo Cimini                                     | Rajan Walia                    |
+|10 / 14 | Kyle Carter                                       | Matteo Cimini                  |
+|10 / 21 | Jason Hemann                                      | Cameron Swords                 |
+|10 / 28 | Rajan Walia                                       | David Christiansen             |
+|11 /  4 | Ryan Scott                                        | Kyle Carter                    |
+|11 / 11 | Mike Vitousek                                     | Tori Lewis                     |
+|11 / 18 | Aadit                                             | Matteo Cimini                  |
+|11 / 25 | **THANKSGIVING** (No Wonks)                       ||
+|12 /  2 | David Christiansen                                | Jason Hemann                   |
+|12 /  9 | FLEX DAY (POPL Practice?)                         | Chris Wailes                   |
+|12 / 16 | [FINALS WEEK]                                     ||
