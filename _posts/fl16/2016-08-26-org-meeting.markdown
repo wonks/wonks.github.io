@@ -16,8 +16,8 @@ This week we'll be gathering to assign a schedule for this semester.
 | 9 /  2 | Ken's Practice Talks I (David + Jason)            | Chris Wailes                   |
 | 9 /  9 | Ken's Practice Talks II (Trevor + Wazim)          | Weixi Ma                       |
 | 9 / 16 | Michael Mendler                                   | Mike Vitousek                  |
-| 9 / 23 | Cameron Swords                                    | Andrew Kent                    |
-| 9 / 30 | Mike Vollmer                                      | Matt H                         |
+| 9 / 23 | **CANCELLED**                                     ||
+| 9 / 30 | Tori Lewis                                        | Matt H                         |
 |10 /  7 | Matteo Cimini                                     | Rajan Walia                    |
 |10 / 14 | Kyle Carter                                       | Matteo Cimini                  |
 |10 / 21 | Jason Hemann                                      | Cameron Swords                 |
