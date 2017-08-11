@@ -3,7 +3,7 @@ layout:  post
 title:   "Hash Array Mapped Tries"
 authors: "Ambrose Bonnaire-Sergeant" 
 date:    2017-01-20 04:15:00 
-categories: BonnaireSergeant Spring2017
+categories: Bonnaire-Sergeant Spring2017
 --- 
 
 ## Abstract
