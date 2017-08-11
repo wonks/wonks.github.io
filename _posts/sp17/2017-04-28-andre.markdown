@@ -1,0 +1,11 @@
+--- 
+layout:  post 
+title:   "A Novice's Quick Plunge into Coq!"
+authors: "Andre Kuhlenschmidt" 
+date:    2017-04-28 04:15:00 
+categories: Kuhlenschmidt Spring2017
+--- 
+
+## Abstract
+
+In this talk I plan on introducing tactics based theorem proving, sharing some of the technical difficulties (and solutions) that I found, and take a deep dive into a semi-interesting PL proof. People who don't have Coq experience should come for the introduction, and people who are already experienced should come and share yours.

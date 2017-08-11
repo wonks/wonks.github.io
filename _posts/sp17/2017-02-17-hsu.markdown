@@ -1,0 +1,13 @@
+--- 
+layout:  post 
+title:   "Guaranteed Optimizations in a Data Parallel Compiler"
+authors: "Aaron Hsu" 
+date:    2017-02-17 04:15:00 
+categories: Hsu Spring2017
+--- 
+
+## Abstract
+
+This will be a casual “hacking code” style talk to discuss the construction and design of the “guaranteed” compiler optimizations that are being added or are being considered for addition into the Co-dfns compiler. Those who have heard Kent Dybvig talk about macros will be familiar with his concept of “essential” optimizations that he calls the “Macro Writer’s Bill of Rights.” We’ll look at varieties of these sorts of optimizations implemented in the Co-dfns compiler in a data-parallel style, and discuss engineering trade-offs, algorithmic performance, and performance/clarity tensions in data-parallel code.
+
+In addition to the classic optimizations, we’ll consider other optimizations that might be considered “essential” in an array/data parallel language vs. a macro heavy language like Scheme, and whether the “Bill of Rights” warrants modification in this context.

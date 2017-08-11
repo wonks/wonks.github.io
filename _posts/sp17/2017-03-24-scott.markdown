@@ -1,0 +1,13 @@
+--- 
+layout:  post 
+title:   "Detflow: towards deterministic workflows on your favorite OS"
+authors: "Ryan Scott" 
+date:    2017-03-24 04:15:00 
+categories: Scott Spring2017
+--- 
+
+## Abstract
+
+Nondeterminism is a serious challenge that hinders many aspects of software development, including debugging, testing, and reproducing results from deployed software. Sources of nondeterminism arise in many places, so writing deterministic software can be difficult. One solution is to use a deterministic operating system with a runtime that dynamically enforces determinism. However, requiring the use of a custom OS can be burdensome, and running every program on your OS under its runtime can lead to significant performance overhead.
+
+To get around the need for a fully deterministic OS, we introduce Detflow, a domain-specific language for writing deterministic programs. Detflow exposes a subset of Haskell that facilitates writing deterministic programs. Moreover, it allows interesting programs, as it supports parallelism by using the filesystem as a shared store, complete with dynamic enforcement of thread-level path permissions to rule out race conditions. Importantly, Detflow also supports running programs not written in this Haskell DSL by running them in a determinized runtime. We demonstrate an example of utilizing these legacy programs with a deterministic version of the Make build tool.

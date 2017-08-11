@@ -1,0 +1,13 @@
+--- 
+layout:  post 
+title:   "Type Checker Tune-up"
+authors: "Andrew Kent" 
+date:    2017-02-03 04:15:00 
+categories: Kent Spring2017
+--- 
+
+## Abstract
+
+Over the past few months I’ve spent some time speeding up Typed Racket and getting rid of some pesky nondeterminism. In this informal talk I’ll discuss some of the issues we faced in Typed Racket’s implementation and how I’ve attempted to address them.
+
+If you’re unable to attend or want a sneak peak, here’s a blog post that describes most of the material I’ll talk about: [https://pnwamk.github.io/blog/2017/01/08/some-changes-in-typed-racket-v6-8/].

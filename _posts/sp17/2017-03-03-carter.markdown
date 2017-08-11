@@ -1,0 +1,11 @@
+--- 
+layout:  post 
+title:   "Category theory in Agda"
+authors: "Kyle Carter" 
+date:    2017-03-03 04:15:00 
+categories: Carter Spring2017
+--- 
+
+## Abstract
+
+Category theory is a general language for reasoning about mathematical structures, their behaviors, and their relationships with other structures. The goals of this talk are twofold: to introduce the fundamental concepts from category theory and to enable writing machine-checked proofs by formalizing the concepts in the dependently typed programming language Agda. Along the way, we’ll see a few techniques to keep the code manageable and coherent as we use and expand our newfound powers.
