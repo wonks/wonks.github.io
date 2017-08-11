@@ -1,0 +1,23 @@
+--- 
+layout:  post 
+title:   "Optimizing first class environments"
+authors  "Rajan Walia" 
+date:    2016-10-28 04:15:00 
+categories: Walia Fall2016
+--- 
+
+# Abstract
+
+In this talk we will look at the semantics of first-class environments
+using a CEK abstract machine and how to implement them efficiently in
+a RPython framework. We will start with writing a simple interpreter
+in Python and then add a tracing JIT using RPython. We will then add
+first class environments to our implementation and look at the
+different ways in which we can optimize them.
+
+RPython is a metatracing framework which automatically generates a
+tracing JIT given a simple interpreter. RPython is currently used to
+develop PyPy and Pycket which are high performance JIT's for Python
+and Racket respectively. We will look at how we can use this framework
+to implement a tracing JIT for our simple language while using similar
+ideas as Pycket.

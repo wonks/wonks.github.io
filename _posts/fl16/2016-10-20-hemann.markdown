@@ -1,0 +1,19 @@
+--- 
+layout:  post 
+title:   "microKanren"
+authors  "Jason Hemann" 
+date:    2016-10-20 04:15:00 
+categories: Hemann Fall2016
+--- 
+
+# Abstract
+
+We present a straightforward, call-by-value embedding of a small logic
+programming language with a simple complete search. We construct the
+entire language in 54 lines of Racket---half of which implement
+unification. We then layer over it, in 43 lines, a reconstruction of
+an existing logic programming language, miniKanren, and attest to our
+implementation's pedagogical value. Evidence suggests our combination
+of expressiveness, concision, and elegance is compelling: since
+microKanren's release, it has spawned over 50 embeddings in over two
+dozen host languages, including Go, Haskell, Prolog and Smalltalk.

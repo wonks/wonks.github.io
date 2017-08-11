@@ -1,0 +1,28 @@
+--- 
+layout:  post 
+title:   "Verified instances for parallel functional programming"
+authors  "Ryan Scott" 
+date:    2016-11-04 04:15:00 
+categories: Scott Fall2016
+--- 
+
+# Abstract
+
+LVish is a Haskell library that claims to offer deterministic
+parallelism. However, LVish is only deterministic up to a certain
+point, as several parts of the API rely on type class instances to
+check for equality, provide an ordering for keys in a map, and other
+operations. A rogue user can define "bad" instances that break
+invariants that LVish expects to hold true, and consequently, it is
+possible to violate determinism through this backdoor.
+
+Our work presents a solution to this problem by integrating LVish code
+with Liquid Haskell's refinement type–based proof system. With Liquid
+Haskell, we can require users who write type class instances for LVish
+to provide proofs that their instances satisfy the properties that we
+expect—for instance, that a parallel fold operation is actually
+associative. Equipped with this proof assistant, Haskell emerges as
+the first practical parallel programming language that also has an
+integrated proof system. We will demonstrate some examples of how one
+can prove simple properties in this system, and will examine what it
+takes to fully verify some LVish applications.
