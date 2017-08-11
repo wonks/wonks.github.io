@@ -1,0 +1,19 @@
+--- 
+layout:  post 
+title:   "Realizability Models and Logical Relations"
+authors  "Victoria Lewis" 
+date:    2016-09-30 04:15:00 
+categories: Lewis Fall2016
+--- 
+
+# Abstract
+
+> > "Realizability has many faces, each of them turned towards different areas of Logic, Mathematics and Computer Science, and this proliferation shows no signs of diminishing in our days. Like a venomous carcinoma, Realizability stretches out its tentacles to ever more remote fields: Linear Logic, Complexity Theory and Rewrite Theory have already been infected. The theory of Subrecursive Hierarchies too. Everything connected to the lambda calculus is heavily engaged. Proof Theory is suffering. Intuitionism is dead."
+> Jaap Van Oosten
+> Realizability a Historical Essay.
+
+While dramatic, Van Oosten hints at a real problem in Realizability. The subject has taken so many forms for each new application's own specific purpose. It's not obvious how the programming languages approach of logical relation relates at all to topos theory, or what the effective topos has to do with Kleene's original Realizability paper.
+
+There is a clear need for a unifying theory. A first cut at this is to present a new way of thinking about realizability that focuses on reconnecting the logical relations style of realizability interpretations to realizability models of categorical logic.
+
+In this talk I will present realizability models as a slight variation on traditional models of classical logic and show how concepts from category theory allow us to relate back to logical relations.

@@ -1,0 +1,44 @@
+--- 
+layout:  post 
+title:   "Well-Typed Languages are Sound"
+authors  "Matteo Cimini" 
+date:    2016-10-07 04:15:00 
+categories: Cimini Fall2016
+--- 
+
+# Abstract
+
+I will take the chance to speak about work with Jeremy Siek and Dale Miller (INRIA).
+
+In this talk, I will set forth the idea that "well-typed languages are sound", the idea of
+treating language specifications as expressions and that the appropriate
+typing discipline over these specifications guarantees the type soundness of the language.
+
+The first contribution is a discipline for organizing and
+restricting languages that guarantees the validity of the progress
+theorem.  This discipline is not novel but it makes explicit the way
+language designers have been organizing a certain class of languages
+for long time.  We make the discipline formal and prove that, indeed, it
+ensures the validity of the progress theorem for the language at hand.
+
+To be more precise, we represent language specifications as logic programs
+and we devise a meta type system over logic programs that enforces the mentioned
+organization and discipline. I have then proved that when such specifications
+are well-typed, the progress theorem holds for that language.
+
+Next, we offer an analogous methodology and meta type system for
+guaranteeing the type preservation lemma.
+Ultimately, languages that conform to our meta type systems are
+guaranteed to be type sound, hence: well-typed languages are sound.
+
+These theoretical results have been implemented in the
+TypeSoundnessCertifier, a tool that takes specifications of
+the Abella interactive theorem prover and automatically generates
+the full mechanized proof of type soundness for those specifications
+that successfully pass our type checkers.
+
+We have applied TypeSoundnessCertifier to a plethora of programming
+languages and we have automatically produced the machine-checked
+proof of type soundness for over a hundred of languages,
+including full fledged languages with recursive types, universal
+types, letrec, exceptions, lists and other common types and operators.

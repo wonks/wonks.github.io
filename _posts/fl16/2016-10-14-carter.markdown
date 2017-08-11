@@ -1,0 +1,13 @@
+--- 
+layout:  post 
+title:   "Nominal Algebra"
+authors  "Kyle Carter" 
+date:    2016-10-14 04:15:00 
+categories: Carter Fall2016
+--- 
+
+# Abstract
+
+Nominal Algebra is a framework for representing languages with binders which supports reasoning about α-equivalence and capture-avoiding substitution. Moreover, it supports the use of metavariables in terms, which makes NA both a powerful logical and computational tool. It can be used to represent a wide variety of languages-- such as first order logic, the λ-calculus, or the π-calculus-- all of which may take advantage of the general properties of Nominal Terms.
+
+These features make Nominal Terms and Algebra particularly suitable for quickly prototyping programming languages and logics, by amortizing the cost of implementing substitution and hygenic syntactic transformation.
