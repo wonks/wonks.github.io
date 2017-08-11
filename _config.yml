@@ -1,6 +1,6 @@
 # Site settings
 title: plwonks
-email: cswords@umail.iu.com
+email: abonnair@indiana.edu
 description: > # this means to ignore newlines until "baseurl:"
   A collection of programming language enthusiasts from Indiana University.
 baseurl: "" # the subpath of your site, e.g. /blog/
