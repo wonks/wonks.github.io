@@ -1,7 +1,7 @@
 # wonks.github.io
 PL Wonks website built on top of Jekyll
 
-##Contributing
+## Contributing
 
 There are three main ways you might contribute.
 
