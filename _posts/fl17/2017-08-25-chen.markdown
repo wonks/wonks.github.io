@@ -1,7 +1,7 @@
 --- 
 layout:  post 
-title:   ""
-authors: "Adaptive Lock-Free Data Structures in Haskell: A General Method for Concurrent Implementation Swapping" 
+title:   "Adaptive Lock-Free Data Structures in Haskell: A General Method for Concurrent Implementation Swapping"
+authors: "Chao-Hong Chen"
 date:    2017-08-25 04:40:00
 categories: Chen Fall2017
 --- 

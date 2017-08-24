@@ -1,7 +1,7 @@
 --- 
 layout:  post 
-title:   ""
-authors: "Symbolic conditioning of arrays in probabilistic programs" 
+title:   "Symbolic conditioning of arrays in probabilistic programs" 
+authors: "Praveen Narayanan"
 date:    2017-08-25 04:15:00
 categories: Narayanan Fall2017
 --- 
