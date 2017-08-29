@@ -1,0 +1,13 @@
+--- 
+layout:  post 
+title:   "Type Theorists HATE Him! Learn this ONE WEIRD TRICK to fake dependent types in a language that doesn’t support them"
+authors: "Ryan Scott"
+date:    2017-09-01 04:30:00
+categories: Scott Fall2017
+--- 
+
+## Abstract
+
+Dependent type systems are all the rage these days, and an increasing number of programming languages are being designed with dependent types in mind. But putting dependent types directly into your type system is so passé—what if we started from a language that didn't support dependent types and somehow retrofitted them? In this talk, we explore this very idea in the context of Haskell, a language with humble System F origins. 
+
+Equipped with a few GHC extensions (OK, maybe a few dozen) and the notion of singleton types, we will see how it is possible to write programs with dependent capabilities. Depending on your current level of sobriety, you might even find the examples to be a convincing facsimile of Idris.
