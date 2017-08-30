@@ -2,7 +2,7 @@
 layout:  post 
 title:   "APL Style Patterns/Anti-patterns: Escaping the Beginner’s Plateau"
 authors: "Aaron Hsu"
-date:    2017-09-01 04:30:00
+date:    2017-09-01 04:15:00
 categories: Hsu Fall2017
 --- 
 
