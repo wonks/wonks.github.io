@@ -6,6 +6,7 @@ date:    2017-09-01 04:45:00
 categories: Choudhury Fall2017
 --- 
 
+[Slides](slides/homotopy-choudhury-sept-1st-2017.pdf)
 
 ## Abstract
 

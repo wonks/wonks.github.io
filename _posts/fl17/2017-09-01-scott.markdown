@@ -6,6 +6,8 @@ date:    2017-09-01 04:30:00
 categories: Scott Fall2017
 --- 
 
+[Slides](slides/tthh-scott-sept-1st-2017.pdf)
+
 ## Abstract
 
 Dependent type systems are all the rage these days, and an increasing number of programming languages are being designed with dependent types in mind. But putting dependent types directly into your type system is so passé—what if we started from a language that didn't support dependent types and somehow retrofitted them? In this talk, we explore this very idea in the context of Haskell, a language with humble System F origins. 
