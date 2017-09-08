@@ -6,7 +6,7 @@ date:    2017-09-01 04:30:00
 categories: Scott Fall2017
 --- 
 
-[Slides](../../slides/tthh-scott-sept-1st-2017.pdf)
+[Slides](http://wonks.github.io/slides/tthh-scott-sept-1st-2017.pdf)
 
 ## Abstract
 

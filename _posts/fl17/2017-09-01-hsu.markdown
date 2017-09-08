@@ -6,7 +6,7 @@ date:    2017-09-01 04:15:00
 categories: Hsu Fall2017
 --- 
 
-[Slides](../../slides/apl-styles-hsu-sept-1st-2017.pdf)
+[Slides](http://wonks.github.io/slides/apl-styles-hsu-sept-1st-2017.pdf)
 
 ## Abstract
 
