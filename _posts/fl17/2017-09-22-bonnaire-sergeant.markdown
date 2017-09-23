@@ -7,7 +7,7 @@ categories: Bonnaire-Sergeant Fall2017
 --- 
 
 [Slides](http://wonks.github.io/slides/bonnaire-sergeant-sept-22nd-2017.pdf)
-[Recording](https://www.youtube.com/watch?v=bqHfVT7ETuM)
+[Video](https://www.youtube.com/watch?v=g5GMQPI8wmw)
 
 ## Abstract
 
