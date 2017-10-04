@@ -2,7 +2,7 @@
 layout:  post 
 title:   "Normalization by Evaluation"
 authors: "David Christiansen"
-date:    2017-09-22 04:15:00
+date:    2017-09-29 04:15:00
 categories: Christiansen Fall2017
 --- 
 
