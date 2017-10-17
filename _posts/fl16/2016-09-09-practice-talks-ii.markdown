@@ -1,7 +1,7 @@
 --- 
 layout:  post 
 title:   "ICFP 2016 Practice Talks II"
-authors  "Wazim Mohammed Ismail, Trevor L. McDonell" 
+authors:  "Wazim Mohammed Ismail, Trevor L. McDonell" 
 date:    2016-09-09 04:15:00 
 categories: McDonell Ismael Fall2016
 --- 

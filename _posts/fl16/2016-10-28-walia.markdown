@@ -1,7 +1,7 @@
 --- 
 layout:  post 
 title:   "Optimizing first class environments"
-authors  "Rajan Walia" 
+authors:  "Rajan Walia" 
 date:    2016-10-28 04:15:00 
 categories: Walia Fall2016
 --- 

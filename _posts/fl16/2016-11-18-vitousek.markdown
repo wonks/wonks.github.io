@@ -1,7 +1,7 @@
 --- 
 layout:  post 
 title:   "Big Types in Little Runtime (Open-World Soundness and Collaborative Blame for Gradual Type Systems)"
-authors  "Mike Vitousek" 
+authors:  "Mike Vitousek" 
 date:    2016-11-18 04:15:00 
 categories: Vitousek Fall2016
 --- 

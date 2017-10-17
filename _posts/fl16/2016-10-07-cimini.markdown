@@ -1,7 +1,7 @@
 --- 
 layout:  post 
 title:   "Well-Typed Languages are Sound"
-authors  "Matteo Cimini" 
+authors:  "Matteo Cimini" 
 date:    2016-10-07 04:15:00 
 categories: Cimini Fall2016
 --- 
