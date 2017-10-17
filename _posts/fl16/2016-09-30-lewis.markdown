@@ -1,7 +1,7 @@
 --- 
 layout:  post 
 title:   "Realizability Models and Logical Relations"
-authors  "Victoria Lewis" 
+authors:  "Victoria Lewis" 
 date:    2016-09-30 04:15:00 
 categories: Lewis Fall2016
 --- 

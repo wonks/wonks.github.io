@@ -1,7 +1,7 @@
 --- 
 layout:  post 
 title:   "Towards a Theory of Objects in Sequentially Constructive Synchronous Programming"
-authors  "Michael Mendler (joint work with Marc Pouzet)" 
+authors:  "Michael Mendler (joint work with Marc Pouzet)" 
 date:    2016-09-16 04:15:00 
 categories: Mendler Fall2016
 --- 

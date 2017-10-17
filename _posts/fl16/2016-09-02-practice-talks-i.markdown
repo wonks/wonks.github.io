@@ -1,7 +1,7 @@
 --- 
 layout:  post 
 title:   "ICFP 2016 Practice Talks I"
-authors  "David Christiansen, Jason Hemann" 
+authors:  "David Christiansen, Jason Hemann" 
 date:    2016-09-02 04:15:00 
 categories: Christiansen Hemann Fall2016
 --- 

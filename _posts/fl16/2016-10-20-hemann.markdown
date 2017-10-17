@@ -1,7 +1,7 @@
 --- 
 layout:  post 
 title:   "microKanren"
-authors  "Jason Hemann" 
+authors:  "Jason Hemann" 
 date:    2016-10-20 04:15:00 
 categories: Hemann Fall2016
 --- 
