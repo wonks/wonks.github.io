@@ -1,8 +1,9 @@
 --- 
 layout:  post 
 title:   "Midwest Programming Languages Summit"
+authors: "Jeremy Siek"
 date:    2017-10-16 06:00:00
-categories: MWPLS Fall2017 Siek Friedman Newton Sabry Shan
+categories: MWPLS Fall2017
 --- 
 
 The Midwest PL Summit is an informal workshop to foster the exchange
@@ -29,7 +30,7 @@ Dec 1: Workshop
 
 ### Program
 
-TDB
+TBD
 
 ### Attending
 
