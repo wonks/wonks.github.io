@@ -1,7 +1,7 @@
 --- 
 layout:  post 
 title:   "Nominal Algebra"
-authors  "Kyle Carter" 
+authors:  "Kyle Carter" 
 date:    2016-10-14 04:15:00 
 categories: Carter Fall2016
 --- 
