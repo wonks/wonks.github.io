@@ -1,0 +1,30 @@
+--- 
+layout:  post 
+title:   "Pony: A Brief Programming Language Overview!"
+authors: "Andrew Kent"
+date:    2017-10-20 04:15:00
+categories: Kent Fall2017
+--- 
+
+[Slides](http://wonks.github.io/slides/kent-october-20-2017.pdf)
+
+## Abstract
+
+Pony is an interesting "new" programming language I discovered over the summer; I thought people might be interested in learning more about it in a brief (~20 min), informal talk.
+
+In Pony's own words, it is an "open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language" offering the following set features:
+
++ Type safe
++ Memory safe
++ Exception-Safe
++ Data-race Free
++ Deadlock-Free
++ Native Code
++ Compatible with C
+
+In this short talk I'll be giving a brief overview of what makes Pony unique, how it achieves some of the above features, and the current state of its development and use.
+
+For more information, you can visit the Pony language website (https://www.ponylang.org/) or peruse the following papers that describe some of the foundational aspects of their language's semantics:
+
++ Deny capabilities for safe, fast actors (https://dl.acm.org/citation.cfm?id=2824816)
++ Ownership and Reference Counting based Garbage Collection in the Actor World (https://www.doc.ic.ac.uk/~scd/icooolps15_GC.pdf)
