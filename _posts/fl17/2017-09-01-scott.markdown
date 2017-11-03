@@ -1,15 +1,15 @@
 --- 
 layout:  post 
-title:   "Type Theorists HATE Him! Learn this ONE WEIRD TRICK to fake dependent types in a language that doesn’t support them"
+title:   "Monadic Composition for Deterministic, Parallel Batch Processing"
 authors: "Ryan Scott"
-date:    2017-09-01 04:30:00
+date:    2017-10-13 04:15:00
 categories: Scott Fall2017
 --- 
 
-[Slides](http://wonks.github.io/slides/tthh-scott-sept-1st-2017.pdf)
-
 ## Abstract
 
-Dependent type systems are all the rage these days, and an increasing number of programming languages are being designed with dependent types in mind. But putting dependent types directly into your type system is so passé—what if we started from a language that didn't support dependent types and somehow retrofitted them? In this talk, we explore this very idea in the context of Haskell, a language with humble System F origins. 
+Achieving determinism on real software systems remains difficult. Even a batch-processing job, whose task is to map input bits to output bits, risks nondeterminism from thread scheduling, system calls, CPU instructions, and leakage of environmental information such as date or CPU model. In this work, we present DetFlow, a system for achieving low-overhead deterministic execution of batch-processing programs that read and write the file system—turning them into pure functions on files.
 
-Equipped with a few GHC extensions (OK, maybe a few dozen) and the notion of singleton types, we will see how it is possible to write programs with dependent capabilities. Depending on your current level of sobriety, you might even find the examples to be a convincing facsimile of Idris.
+DetFlow allows a statically-typed coordinator process to use shared-memory parallelism, as well as invoking process-trees of sandboxed legacy binaries. DetFlow currently implements the coordinator as a Haskell program with a restricted I/O type for its main function: a new monad we call DetIO. Legacy binaries launched by the coordinator run concurrently, but internally each process schedules threads sequentially, allowing dynamic determinism-enforcement with predictably low overhead.
+
+We evaluate DetFlow by applying it to bioinformatics data pipelines and software build systems. DetFlow enables determinizing these data-processing workflows by porting a small amount of code to become a statically-typed coordinator. This hybrid approach of static and dynamic determinism enforcement permits freedom where possible but restrictions where necessary.
