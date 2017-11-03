@@ -1,0 +1,11 @@
+--- 
+layout:  post 
+title:   "Futures in Racket; now and tomorrow"
+authors: "Sarah Spall"
+date:    2017-11-03 04:15:00
+categories: Spall Fall2017
+--- 
+
+## Abstract
+
+Racket provides parallelism via futures, however there are so many caveats that achieving real parallel computation isn't possible in most situations.  In this talk, I will talk about what futures are, the current state of futures in Racket, and how Racket on Chez will hopefully enable users to create actual parallel programs using futures.

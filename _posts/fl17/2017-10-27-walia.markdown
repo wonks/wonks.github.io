@@ -1,0 +1,17 @@
+--- 
+layout:  post 
+title:   "Building high performance DSL's in Racket"
+authors: "Rajan Walia"
+date:    2017-10-27 04:15:00
+categories: Walia Fall2017
+--- 
+
+[Video](https://www.youtube.com/watch?v=539qdXBtmAY)
+
+## Abstract
+
+Racket is an ecosystem for developing and deploying new languages, but
+for most of the languages developed in Racket the final destination is
+Racket VM. In this talk, we will talk about how we can write DSL's
+in Racket with a different compilation path, along with the ability to
+use all of the cool stuff Racket already provides.

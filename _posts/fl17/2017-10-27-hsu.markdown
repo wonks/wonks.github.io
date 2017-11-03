@@ -1,0 +1,13 @@
+--- 
+layout:  post 
+title:   "A Favorite Thing from Dyalog '17"
+authors: "Aaron Hsu"
+date:    2017-10-27 04:15:00
+categories: Hsu Fall2017
+--- 
+
+[Video](https://www.youtube.com/watch?v=539qdXBtmAY)
+
+## Abstract
+
+This year, at the Dyalog ’17 user meeting, Roger Hui presented a neat and tidy exposition of a performance optimization for index selfies. I would like to demo this little programming pearl for your enjoyment. Unlike some APL, this is an example of APL in use as a tool of thought for performance and algorithmic exploration/exposition instead of solving non-computer science problem domains.
