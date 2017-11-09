@@ -61,7 +61,7 @@ Shan, Jeremy Siek, Sam Tobin-Hochstadt
   the Henderson Parking Garage
   - The address is: 301 S Indiana Ave.
   - If you are using this option email Andre Kuhlenschmidt 
-    (`akuhlens` at `indiana` dot `edu`) so that he can arrange 
+    (&#097;&#107;&#117;&#104;&#108;&#101;&#110;&#115;&#064;&#105;&#110;&#100;&#105;&#097;&#110;&#097;&#046;&#101;&#100;&#117;) so that he can arrange 
     for you to have a parking pass.
   - You can park in the garage before we give you the parking pass.
     We will give you the pass during the conference, so that you
