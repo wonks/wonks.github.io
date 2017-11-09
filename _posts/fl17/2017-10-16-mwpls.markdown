@@ -31,7 +31,41 @@ Shan, Jeremy Siek, Sam Tobin-Hochstadt
 
 ### Attending
 
-More information will be forthcoming.
+#### Venue
+
+**Indiana Memorial Union (IMU) Georgian Room**
+
+[900 E 7th St, Bloomington, IN 47405](https://www.google.com/maps/place/IU+Memorial/@39.1676259,-86.5250467,17z/data=!4m8!1m2!2m1!1siu+memorial+union!3m4!1s0x886c66c1a73769f3:0x1d298d5a250815e9!8m2!3d39.1675742!4d-86.5233021)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3093.3120610676015!2d-86.52504673464163!3d39.167625929530026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886c66c1a73769f3%3A0x1d298d5a250815e9!2sIU+Memorial!5e0!3m2!1sen!2sus!4v1510186101467" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+#### Hotel Recommendations
+
+1. [Biddle Hotel at the IMU](https://imu.indiana.edu/hotel/index.html)
+   - same location as the meeting, free on-campus parking
+2. [Hyatt Place Bloomington](https://bloomington.place.hyatt.com/)
+   - 15 minute walk to IMU
+3. [Hilton Garden Inn](http://hiltongardeninn3.hilton.com/en/hotels/indiana/hilton-garden-inn-bloomington-BMGINGI/index.html)
+   - 15 minute walk to IMU
+4. [Marriott Spring Hill Suites](http://www.marriott.com/hotels/travel/bmgsh-springhill-suites-bloomington/)
+   - 17 minute walk to IMU
+5. [Grant Street Inn](https://www.grantstinn.com/)
+   - Bed and Breakfast 
+   - 10 minute walk to IMU
+     
+#### Parking information
+- For people staying overnight at a hotel, 
+  we recommend parking at the hotel and walking.
+- For people driving in for the day, we recommend parking in 
+  the Henderson Parking Garage
+  - The address is: 301 S Indiana Ave.
+  - If you are using this option email Andre Kuhlenschmidt 
+    (`akuhlens` at `indiana` dot `edu`) so that he can arrange 
+    for you to have a parking pass.
+  - You can park in the garage before we give you the parking pass.
+    We will give you the pass during the conference, so that you
+    can leave without paying for parking at the end of the day.
 
 ### Program
 
