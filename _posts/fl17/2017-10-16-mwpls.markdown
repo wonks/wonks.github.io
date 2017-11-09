@@ -34,8 +34,8 @@ Shan, Jeremy Siek, Sam Tobin-Hochstadt
 #### Venue
 
 **Indiana Memorial Union (IMU) Georgian Room**
-
-[900 E 7th St, Bloomington, IN 47405](https://www.google.com/maps/place/IU+Memorial/@39.1676259,-86.5250467,17z/data=!4m8!1m2!2m1!1siu+memorial+union!3m4!1s0x886c66c1a73769f3:0x1d298d5a250815e9!8m2!3d39.1675742!4d-86.5233021)
+* [900 E 7th St, Bloomington, IN 47405](https://www.google.com/maps/place/IU+Memorial/@39.1676259,-86.5250467,17z/data=!4m8!1m2!2m1!1siu+memorial+union!3m4!1s0x886c66c1a73769f3:0x1d298d5a250815e9!8m2!3d39.1675742!4d-86.5233021)
+* [campus map](https://map.iu.edu/iub/index.html)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3093.3120610676015!2d-86.52504673464163!3d39.167625929530026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886c66c1a73769f3%3A0x1d298d5a250815e9!2sIU+Memorial!5e0!3m2!1sen!2sus!4v1510186101467" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -55,17 +55,20 @@ Shan, Jeremy Siek, Sam Tobin-Hochstadt
    - 10 minute walk to IMU
      
 #### Parking information
+
 - For people staying overnight at a hotel, 
   we recommend parking at the hotel and walking.
 - For people driving in for the day, we recommend parking in 
-  the Henderson Parking Garage
-  - The address is: 301 S Indiana Ave.
-  - If you are using this option email Andre Kuhlenschmidt 
-    (&#097;&#107;&#117;&#104;&#108;&#101;&#110;&#115;&#064;&#105;&#110;&#100;&#105;&#097;&#110;&#097;&#046;&#101;&#100;&#117;) so that he can arrange 
-    for you to have a parking pass.
-  - You can park in the garage before we give you the parking pass.
-    We will give you the pass during the conference, so that you
-    can leave without paying for parking at the end of the day.
+  the either the
+  - Henderson Parking Garage: [301 S Indiana Ave](https://www.google.com/maps/place/Henderson+Parking+Garage,+301+S+Indiana+Ave,+Bloomington,+IN+47401/@39.1635416,-86.528532,17z/data=!3m1!4b1!4m5!3m4!1s0x886c66e9bb3cffa1:0x7e26e18109712da!8m2!3d39.1635615!4d-86.5263274),
+  - or the Poplars Parking Garage: [Entrance located on 6th Street, between Grant Street and Dunn Street](https://www.google.com/maps/place/Parking+Garage+-+Poplars,+Bloomington,+IN+47408/@39.1678104,-86.5293984,19z/data=!3m1!4b1!4m8!1m2!2m1!1sIndiana+university+poplars+parking+gargage!3m4!1s0x886c66c2df8212a5:0x98d3484c8b05ff1b!8m2!3d39.1677521!4d-86.5287835).
+- If you are parking at one of these parking garages email Andre
+  Kuhlenschmidt (&#097;&#107;&#117;&#104;&#108;&#101;&#110;&#115;
+  &#064; &#105;&#110;&#100;&#105;&#097;&#110;&#097; &#046;
+  &#101;&#100;&#117;) so that he can arrange for you to have a parking
+  pass. You can park in the garage before we give you the parking
+  pass, get the pass during the conference, and not have to pay if you
+  present the pass when leaving.
 
 ### Program
 
