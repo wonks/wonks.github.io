@@ -43,7 +43,8 @@ Shan, Jeremy Siek, Sam Tobin-Hochstadt
 #### Hotel Recommendations
 
 1. [Biddle Hotel at the IMU](https://imu.indiana.edu/hotel/index.html)
-   - same location as the meeting, free on-campus parking
+   - same location as the meeting
+   - complimentary on-campus parking for IMU Biddle Hotel Guests
 2. [Hyatt Place Bloomington](https://bloomington.place.hyatt.com/)
    - 15 minute walk to IMU
 3. [Hilton Garden Inn](http://hiltongardeninn3.hilton.com/en/hotels/indiana/hilton-garden-inn-bloomington-BMGINGI/index.html)
@@ -56,23 +57,20 @@ Shan, Jeremy Siek, Sam Tobin-Hochstadt
      
 #### Parking information
 
-<!-- - For people staying overnight at a hotel,  -->
-<!--   we recommend parking at the hotel and walking. -->
-We recommend parking in the IMU parking lot where
-we have parking passes that will be distributed at
-the event that will allow you to exit the lot without
-having to pay the regular parking fee.
-<!--   - Henderson Parking Garage:  -->
-<!--     - [301 S Indiana Ave](https://www.google.com/maps/place/Henderson+Parking+Garage,+301+S+Indiana+Ave,+Bloomington,+IN+47401/@39.1635416,-86.528532,17z/data=!3m1!4b1!4m5!3m4!1s0x886c66e9bb3cffa1:0x7e26e18109712da!8m2!3d39.1635615!4d-86.5263274), -->
-<!--   - or the Poplars Parking Garage:  -->
-<!--     - [Entrance located on 6th Street, between Grant Street and Dunn Street](https://www.google.com/maps/place/Parking+Garage+-+Poplars,+Bloomington,+IN+47408/@39.1678104,-86.5293984,19z/data=!3m1!4b1!4m8!1m2!2m1!1sIndiana+university+poplars+parking+gargage!3m4!1s0x886c66c2df8212a5:0x98d3484c8b05ff1b!8m2!3d39.1677521!4d-86.5287835). -->
-<!-- - If you are parking at one of these parking garages email Andre -->
-<!--   Kuhlenschmidt -->
-<!--   (&#097;&#107;&#117;&#104;&#108;&#101;&#110;&#115;&#064;&#105;&#110;&#100;&#105;&#097;&#110;&#097;&#046;&#101;&#100;&#117;) -->
-<!--   so that he can arrange for you to have a parking pass. You can park -->
-<!--   in the garage before we give you the parking pass, get the pass -->
-<!--   during the conference, and not have to pay if you present the pass -->
-<!--   when leaving. -->
+Parking permits for the IU parking garages and parking passes for the
+IMU parking lots are available from Andre Kuhlenschmidt,
+(&#097;&#107;&#117;&#104;&#108;&#101;&#110;&#115;&#064;&#105;&#110;&#100;&#105;&#097;&#110;&#097;&#046;&#101;&#100;&#117;) on December 1st.  
+Please notify him in advance if you think that you will need either a
+parking permit or pass. Here are the campus parking options.
+
+- IMU Parking Lot: [900 E. Seventh Street](https://www.google.com/maps/place/Memorial+Union+Parking+Lot,+Bloomington,+IN+47405/@39.1677866,-86.5237674,17z/data=!3m1!4b1!4m13!1m7!3m6!1s0x886c66c1a1a43b73:0x2a21cc87a4f69e7f!2sIndiana+Memorial+Union+Bldg,+900+E+7th+St,+Bloomington,+IN+47405!3b1!8m2!3d39.1677028!4d-86.5237071!3m4!1s0x886c66c0f6e1a393:0x1dbd416ce24eab28!8m2!3d39.1677954!4d-86.5215619)
+  - Complementary for IMU Biddle Hotel Guests
+  - For non-hotel guests, you will need a parking pass.
+  - This is where we recommend parking.
+- Henderson Parking Garage: [301 S Indiana Ave](https://www.google.com/maps/place/Henderson+Parking+Garage,+301+S+Indiana+Ave,+Bloomington,+IN+47401/@39.1635416,-86.528532,17z/data=!3m1!4b1!4m5!3m4!1s0x886c66e9bb3cffa1:0x7e26e18109712da!8m2!3d39.1635615!4d-86.5263274)
+  - Need a parking permit
+- Poplars Parking Garage: [Entrance located on 6th Street, between Grant Street and Dunn Street](https://www.google.com/maps/place/Parking+Garage+-+Poplars,+Bloomington,+IN+47408/@39.1678104,-86.5293984,19z/data=!3m1!4b1!4m8!1m2!2m1!1sIndiana+university+poplars+parking+gargage!3m4!1s0x886c66c2df8212a5:0x98d3484c8b05ff1b!8m2!3d39.1677521!4d-86.5287835).
+  - Need a parking permit
 
 ### Program
 
