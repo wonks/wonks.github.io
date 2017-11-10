@@ -31,7 +31,44 @@ Shan, Jeremy Siek, Sam Tobin-Hochstadt
 
 ### Attending
 
-More information will be forthcoming.
+#### Venue
+
+**Indiana Memorial Union (IMU) Georgian Room**
+* [900 E 7th St, Bloomington, IN 47405](https://www.google.com/maps/place/IU+Memorial/@39.1676259,-86.5250467,17z/data=!4m8!1m2!2m1!1siu+memorial+union!3m4!1s0x886c66c1a73769f3:0x1d298d5a250815e9!8m2!3d39.1675742!4d-86.5233021)
+* [campus map](https://map.iu.edu/iub/index.html)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3093.3120610676015!2d-86.52504673464163!3d39.167625929530026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886c66c1a73769f3%3A0x1d298d5a250815e9!2sIU+Memorial!5e0!3m2!1sen!2sus!4v1510186101467" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+#### Hotel Recommendations
+
+1. [Biddle Hotel at the IMU](https://imu.indiana.edu/hotel/index.html)
+   - same location as the meeting
+   - complimentary on-campus parking for IMU Biddle Hotel Guests
+2. [Hyatt Place Bloomington](https://bloomington.place.hyatt.com/)
+   - 15 minute walk to IMU
+3. [Hilton Garden Inn](http://hiltongardeninn3.hilton.com/en/hotels/indiana/hilton-garden-inn-bloomington-BMGINGI/index.html)
+   - 15 minute walk to IMU
+4. [Marriott Spring Hill Suites](http://www.marriott.com/hotels/travel/bmgsh-springhill-suites-bloomington/)
+   - 17 minute walk to IMU
+5. [Grant Street Inn](https://www.grantstinn.com/)
+   - Bed and Breakfast 
+   - 10 minute walk to IMU
+     
+#### Parking information
+
+Parking passes for the IU Parking Garages and IMU parking lot are
+available from Andre Kuhlenschmidt,
+(&#097;&#107;&#117;&#104;&#108;&#101;&#110;&#115;&#064;&#105;&#110;&#100;&#105;&#097;&#110;&#097;&#046;&#101;&#100;&#117;)
+on December 1st. Please notify him in advance if you think that you
+will need one. Here are the campus parking options.
+
+- IMU Parking Lot: [900 E. Seventh Street](https://www.google.com/maps/place/Memorial+Union+Parking+Lot,+Bloomington,+IN+47405/@39.1677866,-86.5237674,17z/data=!3m1!4b1!4m13!1m7!3m6!1s0x886c66c1a1a43b73:0x2a21cc87a4f69e7f!2sIndiana+Memorial+Union+Bldg,+900+E+7th+St,+Bloomington,+IN+47405!3b1!8m2!3d39.1677028!4d-86.5237071!3m4!1s0x886c66c0f6e1a393:0x1dbd416ce24eab28!8m2!3d39.1677954!4d-86.5215619)
+  - Complementary for IMU Biddle Hotel Guests (No pass needed)
+  - This is where we recommend parking, but parking may not be
+    adequate depending on what other events are occurring on campus.
+- Henderson Parking Garage: [301 S Indiana Ave](https://www.google.com/maps/place/Henderson+Parking+Garage,+301+S+Indiana+Ave,+Bloomington,+IN+47401/@39.1635416,-86.528532,17z/data=!3m1!4b1!4m5!3m4!1s0x886c66e9bb3cffa1:0x7e26e18109712da!8m2!3d39.1635615!4d-86.5263274)
+- Poplars Parking Garage: [Entrance located on 6th Street, between Grant Street and Dunn Street](https://www.google.com/maps/place/Parking+Garage+-+Poplars,+Bloomington,+IN+47408/@39.1678104,-86.5293984,19z/data=!3m1!4b1!4m8!1m2!2m1!1sIndiana+university+poplars+parking+gargage!3m4!1s0x886c66c2df8212a5:0x98d3484c8b05ff1b!8m2!3d39.1677521!4d-86.5287835).
 
 ### Program
 
