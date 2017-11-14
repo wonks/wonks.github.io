@@ -95,7 +95,8 @@ will need one. Here are the campus parking options.
     Rollback-free Optimistic Hybrid Analysis [25 minutes]
   * Hamidreza Bahramian, IU. Identity types as an alternative to
     subtyping [5 minutes]
-  * Richard Blair, Iowa. A "Bestiary" of Lambda Encodings [25 minutes] 
+  * Richard Blair, Denis Firsov, and Aaron Stump. Iowa. A "Bestiary"
+    of Lambda Encodings [25 minutes]
 * **12:15-2:00pm** Lunch
 * **2:00-3:00pm** Session 3: Domain Specific Languages
   * Tiark Rompf, Purdue. Collapsing Towers of Interpreters [25
