@@ -112,7 +112,7 @@ will need one. Here are the campus parking options.
     [25 minutes]
   * Brian Hempel, Chicago. Direct Manipulation SVG Program Synthesis
     [5 minutes]
-  * Ryan Scott, IU. Livin' la `via` loca: Coercing Types with Class
+  * Ryan Scott, IU. Livin' la \`via\` loca: Coercing Types with Class
     [25 minutes]
   * Charles Chamberlain, Chicago. Structural types and how to infer
     them [5 minutes]
@@ -120,5 +120,8 @@ will need one. Here are the campus parking options.
     [25 minutes]
 * **6pm-?** Dinner (Reservations for 6:30pm at location TBD)
 
+#### Food
 
+Attendees will be provided with complementary breakfast, lunch,
+and coffee breaks, but dinner will be a pay-for-yourself affair. 
 
