@@ -72,7 +72,53 @@ will need one. Here are the campus parking options.
 
 ### Program
 
-TBD
+* **8:00-9:00am** Breakfast
+* **9:00-9:10am** Introductory Remarks 
+* **9:10-10:35am** Session 1: Parallel and Distributed Computing
+  * Gowtham Kaki, Purdue. Alone Together: Compositional Reasoning and
+    Inference for Weakly-Isolated Transactions [25 minutes]
+  * Umang Mathur, UIUC. Dynamic Race Prediction in Linear Time [25
+    minutes]
+  * Guannan Wei, Purdue. Precise Reasoning with Structured Heaps and
+    Collective Operations à la map/reduce [5 minutes]
+  * Sweta Yamini, UIUC. Pothukuchi. Code Generation of Array
+    Constructs for Distributed Memory Systems [25 minutes]
+  * Gregory Essertel, Purdue. Scale up Apache Spark with Native
+    Compilation and set your Data on Fire! [5 minutes]
+* **10:35-10:50am** Coffee Break
+* **10:50am-12:15pm** Session 2: From Applications to Theory
+  * Wei Yang, UIUC. Generating Adversarial Examples with Program
+    Transformations: Practical Attacks to Machine Learner [25 minutes]
+  * Ritwika Ghosh, UIUC. Koord: A framework for implementation and
+    verification of CPS applications [5 minutes]
+  * Sukarno Banerjee, Michigan. Iodine: Fast Dynamic Taint Check Using
+    Rollback-free Optimistic Hybrid Analysis [25 minutes]
+  * Hamidreza Bahramian, IU. Identity types as an alternative to
+    subtyping [5 minutes]
+  * Richard Blair, Iowa. A "Bestiary" of Lambda Encodings [25 minutes] 
+* **12:15-2:00pm** Lunch
+* **2:00-3:00pm** Session 3: Domain Specific Languages
+  * Tiark Rompf, Purdue. Collapsing Towers of Interpreters [25
+    minutes]
+  * Thiago Teixeira, Chicago. A DSL for Performance Orchestration [5
+    minutes]
+  * Charisee Chiw, Chicago. Developing a DSL to visualize finite
+    element data [25 minutes]
+  * Ruby Tahboub, Purdue. How to Architect a Query Compiler, Revisited
+    [5 minutes]
+* **3:00-4:30pm** Coffee Break and Poster Session
+* **4:30-5:55pm** Session 4: Lively Types and Semantics
+  * Cyrus Omar, Chicago. Live Functional Programming with Typed Holes
+    [25 minutes]
+  * Brian Hempel, Chicago. Direct Manipulation SVG Program Synthesis
+    [5 minutes]
+  * Ryan Scott, IU. Livin' la `via` loca: Coercing Types with Class
+    [25 minutes]
+  * Charles Chamberlain, Chicago. Structural types and how to infer
+    them [5 minutes]
+  * Jeremy Siek, IU. Back to the Future with Denotational Semantics
+    [25 minutes]
+* **6pm-?** Dinner (Reservations for 6:30pm at location TBD)
 
 
 
