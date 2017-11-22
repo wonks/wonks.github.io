@@ -101,7 +101,7 @@ will need one. Here are the campus parking options.
 * **2:00-3:00pm** Session 3: Domain Specific Languages
   * Tiark Rompf, Purdue. Collapsing Towers of Interpreters [25
     minutes]
-  * Thiago Teixeira, Chicago. A DSL for Performance Orchestration [5
+  * Thiago Teixeira, UIUC. A DSL for Performance Orchestration [5
     minutes]
   * Charisee Chiw, Chicago. Developing a DSL to visualize finite
     element data [25 minutes]
