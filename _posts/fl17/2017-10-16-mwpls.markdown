@@ -108,7 +108,7 @@ will need one. Here are the campus parking options.
   * Ruby Tahboub, Purdue. How to Architect a Query Compiler, Revisited
     [5 minutes]
 * **3:00-4:30pm** Coffee Break and Poster Session
-* **4:30-5:55pm** Session 4: Lively Types and Semantics
+* **4:30-5:55pm** Session 4: Lively Types and Semantics (Located in the Dogwood Conference Room)
   * Cyrus Omar, Chicago. Live Functional Programming with Typed Holes
     [25 minutes]
   * Brian Hempel, Chicago. Direct Manipulation SVG Program Synthesis
@@ -126,7 +126,7 @@ will need one. Here are the campus parking options.
 Attendees will be provided with complimentary breakfast, lunch, and
 coffee breaks, but dinner will be a pay-for-yourself affair.  Dinner
 reservations are for 6:30pm at Esan Thai, which is located 4 blocks
-from the west side of campus.
+from the west side of campus. 
 * [Esan Thai, 221 E Kirkwood Ave D](https://goo.gl/maps/kMNYCDT8rzL2)
 * [Esan Thai Website](http://www.esanthairest.com/)
 
