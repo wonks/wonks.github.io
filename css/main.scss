@@ -32,7 +32,15 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
+th, td {
+  padding: 0 10px 2px 10px;
+}
+th:first-child, td:first-child {
+  padding-left: 0;
+}
+th {
+  text-align: left;
+}
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
