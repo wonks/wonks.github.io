@@ -50,6 +50,12 @@ th {
 .recent-talk .date {
   color: $grey-color;
 }
+#faculty-list td {
+  vertical-align: top;
+}
+.faculty-name {
+  font-weight: bold;
+}
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
