@@ -2,7 +2,7 @@
 layout:  post 
 title:   "One Weird Trick to Untie Landin's Knot"
 authors: "Paulette Koronkevich"
-date:    2023-10-12 15:00:00
+date:    2023-10-13 15:00:00
 categories: Koronkevich Fall2023
 --- 
 
