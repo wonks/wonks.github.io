@@ -41,6 +41,15 @@ th:first-child, td:first-child {
 th {
   text-align: left;
 }
+.recent-talk:not(:last-child) {
+  margin-bottom: 5px;
+}
+.recent-talk a {
+  font-weight: bold;
+}
+.recent-talk .date {
+  color: $grey-color;
+}
 
 // Using media queries with like this:
 // @include media-query($on-palm) {

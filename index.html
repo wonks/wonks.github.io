@@ -490,17 +490,17 @@ layout: default
   </table>
   -->
 
+  <br /><br />
+
   <h2>Recent Talks</h2>
 
-  <ul class="post-list">
+  <ul id="recent-talk-list">
     {% for post in paginator.posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            {{ post.date | date: "%Y.%m.%-d." }}
+      <li class="recent-talk">
+          {{ post.authors }} &mdash;
+          <a href="{{ post.url | prepend: site.baseurl }}">
             {{ post.title }}</a>
-          <small>{{ post.authors }}</small>
-        </h2>
+          <span class="date">{{ post.date | date: "(%m/%d/%Y)" }}</span>
       </li>
     {% endfor %}
   </ul>
