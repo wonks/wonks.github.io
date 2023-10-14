@@ -6,19 +6,21 @@ date:    2017-09-22 04:15:00
 categories: Fall2017 Recap
 --- 
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/539qdXBtmAY" frameborder="0" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/CpADWJa-f28?rel=0" frameborder="0" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/g5GMQPI8wmw" frameborder="0" allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/u59tzXNFerY" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="320" src="https://www.youtube.com/embed/539qdXBtmAY" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="320" src="https://www.youtube.com/embed/CpADWJa-f28?rel=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="320" src="https://www.youtube.com/embed/g5GMQPI8wmw" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="320" src="https://www.youtube.com/embed/u59tzXNFerY" frameborder="0" allowfullscreen></iframe>
 
   <br />
 
   <table>
+    <thead>
     <tr>
       <th>Date&nbsp;&nbsp;&nbsp;&nbsp;</th>
       <th style="text-align: left">Speaker</th>
       <th style="text-align: left">Official Business Times</th>
     </tr>
+    </thead>
     <tbody>
       <tr>
         <td>17th November 2017</td>
@@ -133,7 +135,6 @@ categories: Fall2017 Recap
         <td></td>
         <td style="text-align: left"><a href="chen/fall2017/2017/08/25/chen.html">Adaptive Lock-Free Data Structures in Haskell: A General Method for Concurrent Implementation Swapping</a> - Chao-Hong Chen</a></td>
         <td style="text-align: left">4:40pm - 5:00pm</td>
-      </tr>
       </tr>
     </tbody>
   </table>

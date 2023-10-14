@@ -6,7 +6,7 @@ date:    2017-10-27 04:30:00
 categories: Christiansen Fall2017
 --- 
 
-[Video](https://www.youtube.com/watch?v=539qdXBtmAY)
+<iframe width="640" height="320" src="https://www.youtube.com/embed/539qdXBtmAY" frameborder="0" allowfullscreen></iframe>
 
 ## Abstract
 

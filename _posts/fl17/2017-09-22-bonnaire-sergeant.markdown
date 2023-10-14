@@ -6,8 +6,7 @@ date:    2017-09-22 04:15:00
 categories: Bonnaire-Sergeant Fall2017
 --- 
 
-[Slides](http://wonks.github.io/slides/bonnaire-sergeant-sept-22nd-2017.pdf)
-[Video](https://www.youtube.com/watch?v=g5GMQPI8wmw)
+<iframe width="640" height="320" src="https://www.youtube.com/embed/g5GMQPI8wmw" frameborder="0" allowfullscreen></iframe>
 
 ## Abstract
 
@@ -21,3 +20,5 @@ The naive approach to observing running programs is expensive.
 In this talk, we present some key optimizations analogous to space-efficient
 gradual typing that significantly reduces this expense, with minor tradeoffs
 in annotation accuracy.
+
+[Slides](http://wonks.github.io/slides/bonnaire-sergeant-sept-22nd-2017.pdf)

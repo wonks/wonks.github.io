@@ -6,9 +6,11 @@ date:    2017-09-01 04:15:00
 categories: Hsu Fall2017
 --- 
 
-[Slides](http://wonks.github.io/slides/apl-styles-hsu-sept-1st-2017.pdf)
+<iframe width="640" height="320" src="https://www.youtube.com/embed/u59tzXNFerY" frameborder="0" allowfullscreen></iframe>
 
 ## Abstract
 
 
 This is a quick taster of my keynote talk for Dyalog ’17, where I discuss my experiences and analysis of different styles of APL programs, and a common pattern that I have seen through working with various types of code. I particularly focus on what I consider 8 tensions between traditional programming “best practices” that are often taken for granted in the programming community, but which, when applied to APL, results in substandard results and in fact, I claim, increases the difficulty of becoming an expert level APL programmer, leading many otherwise experienced programmer’s to feel that APL is “too hard” or “obtuse,” precisely because their assumptions about what makes “good code” and what makes “bad code” leads them to be unable to progress further than a beginner level in reading and comprehending APL code. I present 8 counter-patterns that APLers tend to take for granted and that appears throughout different APL styles of programming. These 8 counter-patterns tend to result in code that experienced APLers find attractive and elegant, but which beginner’s with prior programming experience find difficult to write themselves.
+
+[Slides](http://wonks.github.io/slides/apl-styles-hsu-sept-1st-2017.pdf)
