@@ -56,9 +56,6 @@ th {
 .faculty-name {
   font-weight: bold;
 }
-b, strong {
-  font-weight: bold; // cf Firefox
-}
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
