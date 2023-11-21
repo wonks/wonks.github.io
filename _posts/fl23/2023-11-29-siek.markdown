@@ -1,0 +1,11 @@
+--- 
+layout:  post 
+title:   "An Introduction to Step-Indexed Logical Relations via Type Safety for STLC + fix"
+authors: "Jeremy Siek"
+date:    2023-11-29 11:15:00
+categories: Siek Fall2023
+--- 
+
+## Abstract
+
+TBA
