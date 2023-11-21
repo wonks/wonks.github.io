@@ -1,12 +1,18 @@
---- 
-layout:  post 
+---
+layout:  post
 title:   "One Weird Trick to Untie Landin's Knot"
 authors: "Paulette Koronkevich"
 date:    2023-10-13 15:00:00
 categories: Koronkevich Fall2023
---- 
+---
 
 <iframe width="640" height="320" src="https://www.youtube.com/embed/XNgE8kBfSz8" frameborder="0" allowfullscreen></iframe>
+
+## Time and Location
+
+* **Date:** Friday, October 13
+* **Time:** 3:00-4:00 PM
+* **Location:** Info East 130 (I-E130)
 
 ## Abstract
 

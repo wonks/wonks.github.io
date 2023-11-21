@@ -1,10 +1,16 @@
---- 
-layout:  post 
+---
+layout:  post
 title:   "An Introduction to Step-Indexed Logical Relations via Type Safety for STLC + fix"
 authors: "Jeremy Siek"
 date:    2023-11-29 11:15:00
 categories: Siek Fall2023
---- 
+---
+
+## Time and Location
+
+* **Date:** Wednesday, November 29
+* **Time:** 11:15 AM-12:15 PM
+* **Location:** Luddy Hall 1104 (BLIF-1104)
 
 ## Abstract
 
