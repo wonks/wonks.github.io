@@ -14,4 +14,12 @@ categories: Siek Fall2023
 
 ## Abstract
 
-TBA
+The logical relations technique is widely used to prove properties of programming languages,
+from simple applications such as termination of the simply-typed lambda calculus, to more
+advanced ones such as proving noninterference for languages with information-flow security.
+For languages that are not strongly normalizing, one usually adapts the logical relations
+proof technique by using step-indexing. Doing so by hand is tedious, so Dreyer, Ahmed, and Birkedal
+created a temporal logic named LSLR that hides some of the work.
+
+In this talk I give an introduction to using a step-indexed logic to define logical relations and to
+prove type safety of the simply-typed lambda calculus with fix (general recursion).
