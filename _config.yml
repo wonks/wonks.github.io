@@ -1,8 +1,8 @@
 # Site settings
 title: plwonks
-email: abonnair@indiana.edu
+email: pl-wonks-l@list.indiana.edu
 description: > # this means to ignore newlines until "baseurl:"
-  A collection of programming language enthusiasts from Indiana University.
+  Programming language enthusiasts from Indiana University
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://wonks.github.io" # the base hostname & protocol for your site
 
