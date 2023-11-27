@@ -215,6 +215,7 @@ layout: default
 
   <ul id="upcoming-talk-list">
       {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+      {% assign cnt = 0 %}
       {% for post in paginator.posts reversed %}
       {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
       {% if posttime >= nowunix %}
@@ -224,9 +225,14 @@ layout: default
               {{ post.title }}</a>
           <span class="date">{{ post.date | date: "(%m/%d/%Y)" }}</span>
       </li>
+      {% assign cnt = cnt | plus: 1 %}
       {% endif %}
       {% endfor %}
   </ul>
+
+  {% if cnt == 0 %}
+  <p><em> Sorry no event scheduled yet. Please check again later! </em></p>
+  {% endif %}
 
   <h2>Past Events</h2>
 
