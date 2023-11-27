@@ -215,7 +215,7 @@ layout: default
 
   <ul id="upcoming-talk-list">
       {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-      {% for post in paginator.posts %}
+      {% for post in paginator.posts reversed %}
       {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
       {% if posttime >= nowunix %}
       <li class="recent-talk">
