@@ -211,18 +211,38 @@ layout: default
   </ul>
   </td></tr></table>
 
-  <h2>Recent Talks</h2>
+  <h2>Upcoming Events</h2>
+
+  <ul id="upcoming-talk-list">
+      {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+      {% for post in paginator.posts %}
+      {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+      {% if posttime >= nowunix %}
+      <li class="recent-talk">
+          {{ post.authors }} &mdash;
+          <a href="{{ post.url | prepend: site.baseurl }}">
+              {{ post.title }}</a>
+          <span class="date">{{ post.date | date: "(%m/%d/%Y)" }}</span>
+      </li>
+      {% endif %}
+      {% endfor %}
+  </ul>
+
+  <h2>Past Events</h2>
 
   <iframe width="640" height="320" src="https://www.youtube.com/embed/XNgE8kBfSz8" frameborder="0" allowfullscreen></iframe>
 
   <ul id="recent-talk-list">
     {% for post in paginator.posts %}
+      {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+      {% if posttime < nowunix %}
       <li class="recent-talk">
           {{ post.authors }} &mdash;
           <a href="{{ post.url | prepend: site.baseurl }}">
             {{ post.title }}</a>
           <span class="date">{{ post.date | date: "(%m/%d/%Y)" }}</span>
       </li>
+      {% endif %}
     {% endfor %}
   </ul>
 
