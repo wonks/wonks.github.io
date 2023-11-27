@@ -1,10 +1,16 @@
---- 
-layout:  post 
+---
+layout:  post
 title:   "TBA"
 authors: "Carlo Angiuli"
 date:    2023-12-06 11:15:00
 categories: Angiuli Fall2023
---- 
+---
+
+## Time and Location
+
+* **Date:** Wednesday, December 6
+* **Time:** 11:15 AM-12:15 PM
+* **Location:** Luddy Hall 1104 (BLIF-1104)
 
 ## Abstract
 
