@@ -6,16 +6,18 @@ date:    2023-11-29 11:15:00
 categories: Siek Fall2023
 ---
 
+## Recording and Slides
+
+<iframe width="640" height="320" src="https://www.youtube.com/embed/f8WpBngZehA" frameborder="0" allowfullscreen></iframe>
+
++ [**Slides (in PDF)**](http://wonks.github.io/slides/siek-nov-29-2023.pdf)
+
+
 ## Time and Location
 
 * **Date:** Wednesday, November 29
 * **Time:** 11:15 AM-12:15 PM
 * **Location:** Luddy Hall 1104 (BLIF-1104)
-
-## Recording and Slides
-
-+ **Recording:** TBA
-+ [**Slides (in PDF)**](http://wonks.github.io/slides/siek-nov-29-2023.pdf)
 
 ## Abstract
 
