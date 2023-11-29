@@ -12,6 +12,11 @@ categories: Siek Fall2023
 * **Time:** 11:15 AM-12:15 PM
 * **Location:** Luddy Hall 1104 (BLIF-1104)
 
+## Recording and Slides
+
++ **Recording:** TBA
++ [**Slides (in PDF)**](http://wonks.github.io/slides/siek-nov-29-2023.pdf)
+
 ## Abstract
 
 The logical relations technique is widely used to prove properties of programming languages,
