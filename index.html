@@ -216,7 +216,7 @@ layout: default
   <ul id="upcoming-talk-list">
       {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
       {% assign cnt = 0 %}
-      {% for post in paginator.posts reversed %}
+      {% for post in site.posts reversed %}
       {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
       {% if posttime >= nowunix %}
       <li class="recent-talk">
@@ -239,7 +239,11 @@ layout: default
   <iframe width="640" height="360" src="https://www.youtube.com/embed/f8WpBngZehA" frameborder="0" allowfullscreen></iframe>
 
   <ul id="recent-talk-list">
-    {% for post in paginator.posts %}
+    {% assign cnt = 0 %}
+    {% for post in site.posts %}
+      {% if cnt == 10 %}
+      {% break %}
+      {% endif %}
       {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
       {% if posttime < nowunix %}
       <li class="recent-talk">
@@ -248,29 +252,16 @@ layout: default
             {{ post.title }}</a>
           <span class="date">{{ post.date | date: "(%m/%d/%Y)" }}</span>
       </li>
+      {% assign cnt = cnt | plus: 1 %}
       {% endif %}
     {% endfor %}
   </ul>
 
   <p>
   See the
-  <strong><a href="/talks.html">full list of talks</a></strong>
+  <strong><a href="/talks">full list of events</a></strong>
   or
   <span class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">subscribe via RSS</a>.
   </p>
 
-  <!-- Pagination links
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-    {% else %}
-      <span class="previous">Previous</span>
-    {% endif %}
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-    {% else %}
-      <span class="next ">Next</span>
-    {% endif %}
-  </div> -->
 </div>

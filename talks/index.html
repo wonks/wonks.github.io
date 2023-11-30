@@ -3,11 +3,11 @@ layout: default
 ---
 
 <div class="home">
-  
-  <h2 class="page-heading">List of Talks</h2>
- 
+
+  <h2 class="page-heading">List of All Events</h2>
+
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
@@ -15,20 +15,21 @@ layout: default
             {{ post.title }}</a>
           <small>{{ post.authors }}</small>
         </h2>
-        
       </li>
     {% endfor %}
   </ul>
 
   <!-- Pagination links -->
-  <div align="center"> 
+  <div align="center">
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+      <a href="{{ paginator.previous_page_path }}" class="previous">Prev</a>
     {% else %}
-      <span class="previous">Previous</span>
+      <span class="previous">Prev</span>
     {% endif %}
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      |
+      <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      |
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path }}" class="next">Next</a>
     {% else %}
