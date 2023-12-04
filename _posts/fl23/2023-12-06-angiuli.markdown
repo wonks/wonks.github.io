@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:   "TBA"
+title:   "Universe Hierarchies and (Generalized) Universe Polymorphism"
 authors: "Carlo Angiuli"
 date:    2023-12-06 11:15:00
 categories: Angiuli Fall2023
@@ -14,4 +14,15 @@ categories: Angiuli Fall2023
 
 ## Abstract
 
-TBA
+Dependent type theory expresses type dependency and quantification in terms of a
+hierarchy of _type universes_ whose elements are other types. In this talk, I
+will motivate universe hierarchies by discussing how they resolve paradoxes in
+naive set theory. Next, I will discuss a few mechanisms for _universe
+polymorphism_ implemented in proof assistants to avoid code duplication.
+
+Finally, I will talk about joint work with Favonia and Reed Mullanix ("An
+Order-Theoretic Analysis of Universe Polymorphism", POPL 2023) in which we
+formulate general notions of universe hierarchies and universe polymorphism,
+give some examples of exotic but consistent universe hierarchies, and prove that
+any universe-polymorphic type theory can be presented via McBride's "crude but
+effective stratification."
