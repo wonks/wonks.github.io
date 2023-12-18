@@ -12,7 +12,7 @@ categories: Koronkevich Fall2023
 
 * **Date:** Friday, October 13
 * **Time:** 3:00-4:00 PM
-* **Location:** Info East 130 (I-E130)
+* **Location:** Info East 130 (BLI-E130)
 
 ## Abstract
 
