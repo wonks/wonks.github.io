@@ -6,10 +6,11 @@ date:    2017-09-22 04:15:00
 categories: Fall2017 Recap
 --- 
 
-  <iframe width="640" height="320" src="https://www.youtube.com/embed/539qdXBtmAY" frameborder="0" allowfullscreen></iframe>
-  <iframe width="640" height="320" src="https://www.youtube.com/embed/CpADWJa-f28?rel=0" frameborder="0" allowfullscreen></iframe>
-  <iframe width="640" height="320" src="https://www.youtube.com/embed/g5GMQPI8wmw" frameborder="0" allowfullscreen></iframe>
-  <iframe width="640" height="320" src="https://www.youtube.com/embed/u59tzXNFerY" frameborder="0" allowfullscreen></iframe>
+
+  <iframe src="https://www.youtube.com/embed/539qdXBtmAY" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/CpADWJa-f28?rel=0" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/g5GMQPI8wmw" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/u59tzXNFerY" frameborder="0" allowfullscreen></iframe>
 
   <br />
 

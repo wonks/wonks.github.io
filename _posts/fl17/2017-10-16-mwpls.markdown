@@ -37,7 +37,7 @@ Shan, Jeremy Siek, Sam Tobin-Hochstadt
 * [900 E 7th St, Bloomington, IN 47405](https://www.google.com/maps/place/IU+Memorial/@39.1676259,-86.5250467,17z/data=!4m8!1m2!2m1!1siu+memorial+union!3m4!1s0x886c66c1a73769f3:0x1d298d5a250815e9!8m2!3d39.1675742!4d-86.5233021)
 * [campus map](https://map.iu.edu/iub/index.html)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3093.3120610676015!2d-86.52504673464163!3d39.167625929530026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886c66c1a73769f3%3A0x1d298d5a250815e9!2sIU+Memorial!5e0!3m2!1sen!2sus!4v1510186101467" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3093.3120610676015!2d-86.52504673464163!3d39.167625929530026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886c66c1a73769f3%3A0x1d298d5a250815e9!2sIU+Memorial!5e0!3m2!1sen!2sus!4v1510186101467" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 #### Hotel Recommendations

@@ -6,7 +6,7 @@ date:    2017-09-01 04:45:00
 categories: Choudhury Fall2017
 --- 
 
-<iframe width="640" height="320" src="https://www.youtube.com/embed/u59tzXNFerY" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/u59tzXNFerY" frameborder="0" allowfullscreen></iframe>
 
 ## Abstract
 

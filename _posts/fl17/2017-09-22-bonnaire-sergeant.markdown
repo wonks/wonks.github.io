@@ -6,7 +6,7 @@ date:    2017-09-22 04:15:00
 categories: Bonnaire-Sergeant Fall2017
 --- 
 
-<iframe width="640" height="320" src="https://www.youtube.com/embed/g5GMQPI8wmw" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/g5GMQPI8wmw" frameborder="0" allowfullscreen></iframe>
 
 ## Abstract
 

@@ -57,6 +57,26 @@ th {
   font-weight: bold;
 }
 
+/* For responsive iframe: */
+iframe {
+    margin: auto;
+    display: block;
+	  aspect-ratio: 16 / 9;
+    width: 75%;
+}
+
+@media (max-width: 1024px) {
+    iframe {
+        width: 85%;
+    }
+}
+
+@media (max-width: 600px) {
+    iframe {
+        width: 100%;
+    }
+}
+
 // Using media queries with like this:
 // @include media-query($on-palm) {
 //     .wrapper {

@@ -6,7 +6,7 @@ date:    2023-10-13 15:00:00
 categories: Koronkevich Fall2023
 ---
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/XNgE8kBfSz8" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/XNgE8kBfSz8" frameborder="0" allowfullscreen></iframe>
 
 ## Time and Location
 

@@ -8,7 +8,7 @@ categories: Siek Fall2023
 
 ## Recording and Slides
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/f8WpBngZehA" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/f8WpBngZehA" frameborder="0" allowfullscreen></iframe>
 
 + [**Slides (in PDF)**](http://wonks.github.io/slides/siek-nov-29-2023.pdf)
 
