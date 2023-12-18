@@ -10,4 +10,13 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   <link href="https://assets.iu.edu/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <!-- for mathjax support -->
+  {% if page.usemathjax %}
+  <script type="text/x-mathjax-config">
+   MathJax.Hub.Config({
+       TeX: { equationNumbers: { autoNumber: "AMS" } }
+   });
+  </script>
+  <script type="text/javascript" async src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  {% endif %}
 </head>

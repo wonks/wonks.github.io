@@ -1,0 +1,41 @@
+---
+layout:  post
+title:   "The Holy Grail of Gradual Security"
+authors: "Tianyu Chen"
+date:    2024-1-24 11:15:00
+categories: Chen Spring2024
+usemathjax: true
+---
+
+## Time and Location
+
+* **Date:** Wednesday, January 24
+* **Time:** 11:15 AM-12:15 PM
+* **Location:** TBD
+
+## Abstract
+
+Languages with gradual information-flow control combine static and
+dynamic techniques to prevent security leaks.  Gradual languages
+should satisfy the gradual guarantee: programs that only differ in the
+precision of their type annotations should behave the same modulo cast
+errors. Unfortunately, Toro et al. [2018] identify a tension between
+the gradual guarantee and information security; they were unable to
+satisfy both properties in the language $$\mathrm{GSL}_\mathsf{Ref}$$
+and had to settle for only satisfying information-flow security.
+Azevedo de Amorim et al. [2020] show that by sacrificing type-guided
+classification, one obtains a language that satisfies both noninterference
+and the gradual guarantee. Bichhawat et al. [2021] show that both properties
+can be satisfied by sacrificing the no-sensitive-upgrade mechanism,
+replacing it with a static analysis.
+
+In this talk we present a language design, $$\lambda_{\mathtt{IFC}}^\star$$,
+that satisfies both noninterference and the gradual guarantee without making any
+sacrifices. We keep the type-guided classification of $$\mathrm{GSL}_\mathsf{Ref}$$
+and use the standard no-sensitive-upgrade mechanism to prevent implicit flows
+through mutable references. We mechanize the definition of
+$$\lambda_{\mathtt{IFC}}^\star$$ in Agda and prove the gradual guarantee.
+On the technical side, the semantics of $$\lambda_{\mathtt{IFC}}^\star$$ is
+the first gradual information-flow control language to be specified using
+coercion calculi (a la Henglein), thereby expanding the coercion-based theory of
+gradual typing.
