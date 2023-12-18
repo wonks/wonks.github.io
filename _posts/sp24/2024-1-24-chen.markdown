@@ -3,7 +3,7 @@ layout:  post
 title:   "The Holy Grail of Gradual Security"
 authors: "Tianyu Chen"
 date:    2024-1-24 11:15:00
-categories: Chen Spring2024
+categories: Chen Spring2024 Gradual GradualTypes GradualTyping Security
 usemathjax: true
 ---
 
