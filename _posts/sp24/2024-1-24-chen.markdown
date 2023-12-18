@@ -29,13 +29,16 @@ and the gradual guarantee. Bichhawat et al. [2021] show that both properties
 can be satisfied by sacrificing the no-sensitive-upgrade mechanism,
 replacing it with a static analysis.
 
-In this talk we present a language design, $$\lambda_{\mathtt{IFC}}^\star$$,
+In this talk I present our language design, $$\lambda_{\mathtt{IFC}}^\star$$,
 that satisfies both noninterference and the gradual guarantee without making any
 sacrifices. We keep the type-guided classification of $$\mathrm{GSL}_\mathsf{Ref}$$
 and use the standard no-sensitive-upgrade mechanism to prevent implicit flows
-through mutable references. We mechanize the definition of
-$$\lambda_{\mathtt{IFC}}^\star$$ in Agda and prove the gradual guarantee.
+through mutable references. The definition of $$\lambda_{\mathtt{IFC}}^\star$$
+and its gradual guarantee proof are fully mechanized  in Agda.
 On the technical side, the semantics of $$\lambda_{\mathtt{IFC}}^\star$$ is
 the first gradual information-flow control language to be specified using
 coercion calculi (a la Henglein), thereby expanding the coercion-based theory of
 gradual typing.
+
+([Tianyu](https://homes.luddy.indiana.edu/chen512) is a PhD student
+advised by Prof. [Jeremy Siek](https://wphomes.soic.indiana.edu/jsiek).)
