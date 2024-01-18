@@ -37,8 +37,12 @@ the gradual guarantee without making any sacrifices. $$\lambda_{\mathtt{IFC}}^\s
 (3) enjoys type-guided classification, and
 (4) utilizes NSU checking to enforce implicit flows through the heap
 with no static analysis required.
-The definition of $$\lambda_{\mathtt{IFC}}^\star$$
-and its gradual guarantee proof are fully mechanized  in Agda.
+<!-- The definition of $$\lambda_{\mathtt{IFC}}^\star$$ -->
+<!-- and its gradual guarantee proof are fully mechanized  in Agda. -->
+The key to the design of $$\lambda_{\mathtt{IFC}}^\star$$ is to
+walk back the unusual decision in $$\mathrm{GSL}_\mathsf{Ref}$$ to include the unknown
+label among the runtime security labels. We mechanize the
+definition of $$\lambda_{\mathtt{IFC}}^\star$$ in Agda and prove the gradual guarantee.
 On the technical side, the semantics of $$\lambda_{\mathtt{IFC}}^\star$$ is
 the first gradual information-flow control language to be specified using
 coercion calculi (a la Henglein), thereby expanding the coercion-based theory of
