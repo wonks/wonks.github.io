@@ -7,6 +7,8 @@ categories: Chen Spring2024 Gradual GradualTypes GradualTyping Security
 usemathjax: true
 ---
 
+![ChenJan2024](/images/chen_jan_2024.png)
+
 ## Time and Location
 
 * **Date:** Wednesday, January 24
