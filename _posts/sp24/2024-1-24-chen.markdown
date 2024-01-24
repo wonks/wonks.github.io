@@ -7,6 +7,8 @@ categories: Chen Spring2024 Gradual GradualTypes GradualTyping Security
 usemathjax: true
 ---
 
++ [**Slides (in PDF)**](http://wonks.github.io/slides/chen-jan-24-2024.pdf)
+
 ![ChenJan2024](/images/chen_jan_2024.png)
 
 ## Time and Location
