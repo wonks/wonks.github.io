@@ -10,7 +10,7 @@ categories: Tobin-Hochstadt Spring2024
 
 * **Date:** Wednesday, February 7
 * **Time:** 11:15 AM-12:15 PM
-* **Location:** TBA
+* **Location:** Luddy Hall 0119 (BLIF-0119)
 
 ## Abstract
 

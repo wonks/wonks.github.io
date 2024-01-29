@@ -15,7 +15,7 @@ usemathjax: true
 
 * **Date:** Wednesday, January 24
 * **Time:** 11:15 AM-12:15 PM
-* **Location:** Info (aka Myles Brand Hall) East **150** (BLI-**E150**, _not_ E130)
+* **Location:** Info (aka Myles Brand Hall) East 150 (BLI-E150)
 
 ## Abstract
 
