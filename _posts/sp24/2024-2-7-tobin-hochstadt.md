@@ -1,10 +1,12 @@
 ---
 layout:  post
-title:   "Scheduled Talk"
+title:   "Rhombus, a new Racket language without parentheses"
 authors: "Sam Tobin-Hochstadt"
 date:    2024-2-7 11:15:00
 categories: Tobin-Hochstadt Spring2024
 ---
+
+<iframe src="https://www.youtube.com/embed/UTX2ih_jGms" frameborder="0" allowfullscreen></iframe>
 
 ## Time and Location
 
