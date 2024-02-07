@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:   "Rhombus, a new Racket language without parentheses"
+title:   "Rhombus, a New Racket Language Without Parentheses"
 authors: "Sam Tobin-Hochstadt"
 date:    2024-2-7 11:15:00
 categories: Tobin-Hochstadt Spring2024
