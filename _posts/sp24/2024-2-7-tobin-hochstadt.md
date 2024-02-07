@@ -14,4 +14,6 @@ categories: Tobin-Hochstadt Spring2024
 
 ## Abstract
 
-TBA
+I will talk about and demo Rhombus, a new language built on Racket
+that features both Racket-style macros and conventional syntax,
+as well as a variety of other interesting features.
