@@ -1,0 +1,33 @@
+---
+layout:  post
+title:   "Indexed Families in Category Theory"
+authors: "Carlo Angiuli"
+date:    2024-10-18 14:00:00
+categories: Angiuli Fall2024
+---
+
+## Time and Location
+
+* **Date:** Friday, October 18
+* **Time:** 2:00-3:00 PM
+* **Location:** TBA
+
+## Abstract
+
+This is the first in a series of lectures introducing how the language of
+category theory captures "dependency." We will start with set-indexed families
+of sets, generalize from Set to arbitrary categories, and conclude with
+category-indexed families of categories. Topics covered will include bundles and
+sections, slice categories, pullbacks, base change, and Grothendieck fibrations.
+
+The categorical prerequisites are minimal: I will assume you know about
+categories, functors, terminal objects, and binary products. Knowledge of
+dependent type theory is not necessary but may provide additional motivation.
+If you already know what a Grothendieck fibration is, you probably won't learn
+anything new.
+
+By the end of this series, you will be prepared to understand the categorical
+semantics of dependent type theory (such as comprehension categories, display
+map categories, and categories with families / natural models), why everyone
+keeps talking about pullbacks, and why universes solve problems you didn't even
+know you had.
