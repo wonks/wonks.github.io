@@ -28,5 +28,5 @@ anything new.
 
 By the end of this series, you will be prepared to understand the categorical
 semantics of dependent type theory (such as comprehension categories, display
-map categories, and categories with families / natural models), "gluing" proofs
-of metatheorems, and why everyone loves pullbacks so much.
+map categories, and categories with families / natural models), the categorical
+gluing approach to logical relations, and why everyone loves pullbacks so much.
