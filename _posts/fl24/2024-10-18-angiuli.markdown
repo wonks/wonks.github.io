@@ -28,6 +28,5 @@ anything new.
 
 By the end of this series, you will be prepared to understand the categorical
 semantics of dependent type theory (such as comprehension categories, display
-map categories, and categories with families / natural models), why everyone
-keeps talking about pullbacks, and why universes solve problems you didn't even
-know you had.
+map categories, and categories with families / natural models), "gluing" proofs
+of metatheorems, and why everyone loves pullbacks so much.
