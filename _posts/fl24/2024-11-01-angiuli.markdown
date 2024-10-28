@@ -1,8 +1,8 @@
 ---
 layout:  post
-title:   "Indexed Families in Category Theory, Part II"
+title:   "Indexed Families in Category Theory, Part III"
 authors: "Carlo Angiuli"
-date:    2024-10-25 14:00:00
+date:    2024-11-01 14:00:00
 categories: Angiuli Fall2024
 ---
 
