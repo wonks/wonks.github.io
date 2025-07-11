@@ -2,15 +2,15 @@
 layout:  post
 title:   "Analyzing Control Flow More Like a Human"
 authors: "Kimball Germane"
-date:    2025-8-6 09:00:00
+date:    2025-8-6 13:00:00
 categories: Germane Summer2025
 ---
 
 ## Time and Location
 
 * **Date:** Wednesday, August 6
-* **Time:** TBA
-* **Location:** TBA
+* **Time:** 1:00-2:00PM
+* **Location:** Luddy Hall 1104 (tentative)
 
 ## Abstract
 
