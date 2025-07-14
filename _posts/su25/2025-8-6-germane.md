@@ -10,7 +10,7 @@ categories: Germane Summer2025
 
 * **Date:** Wednesday, August 6
 * **Time:** 1:00-2:00PM
-* **Location:** Luddy Hall 1104 (tentative)
+* **Location:** Luddy Hall 1104
 
 ## Abstract
 
