@@ -6,6 +6,8 @@ date:    2025-8-6 13:00:00
 categories: Germane Summer2025
 ---
 
+<iframe src="https://www.youtube.com/embed/c282Q5VL75Y" frameborder="0" allowfullscreen></iframe>
+
 ## Time and Location
 
 * **Date:** Wednesday, August 6
