@@ -1,0 +1,37 @@
+---
+layout:  post
+title:   "How to Design Loops"
+authors: "Joshua Crotts"
+date:    2025-10-31 12:00:00
+categories: Crotts Fall2025
+---
+
+## Time and Location
+
+* **Date:** Friday, October 31 (tentative)
+* **Time:** TBA
+* **Location:** TBA
+
+## Abstract
+
+In this talk I describe a step-by-step translation process for loop construction
+that beginning programming students can follow. Loops in programming languages
+are difficult for beginning students to correctly construct. At their core, the
+idea is simple: repeat a given task until a condition is falsified. Loops,
+however, have multiple possible points of failure and opportunities for
+mistakes. Via a series of correctness-preserving transformations, students
+engage with an fully-mechanical translation pipeline that tries to removes many
+instances of failure and frustration when designing loops. We performed two
+evaluative studies on students from the CS1 and CS2 population at a large R1
+midwestern university to test our methodology against the traditional approach
+to teaching loops in a second-semester computer science course. The first study
+emphasized translating tail recursive functions into loops. The second study,
+which builds upon the results from the first, moves students from a problem
+statement, a recursive function, then to its loop counterpart. The results from
+our first study indicate that our translation pipeline method improves students’
+success in translating tail recursive functions to equivalent loops. The results
+of our second study indicate that more students appear to enjoy the presentation
+of the translation pipeline versus others’ attitudes toward the traditional
+means of learning loops. Combining these facts together can potentially imply
+that students who use the translation pipeline perform better at writing loops
+than those trained by traditional lectures.
