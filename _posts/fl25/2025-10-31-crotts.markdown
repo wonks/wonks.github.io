@@ -2,15 +2,15 @@
 layout:  post
 title:   "How to Design Loops"
 authors: "Joshua Crotts"
-date:    2025-10-31 12:00:00
+date:    2025-10-31 14:00:00
 categories: Crotts Fall2025
 ---
 
 ## Time and Location
 
-* **Date:** Friday, October 31 (tentative)
-* **Time:** TBA
-* **Location:** TBA
+* **Date:** Friday, October 31
+* **Time:** 2:00-3:00PM
+* **Location:** Luddy Center for Artificial Intelligence (BLLU) 1001
 
 ## Abstract
 
