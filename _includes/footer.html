@@ -4,13 +4,11 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
-        <ul class="contact-list">
-          <li><a href="https://github.com/wonks/wonks.github.io">Contribute to this site</a></li>
-          <li>{{ site.email }}</li>
-        </ul>
+        <p class="text">{{ site.description }}</p>
       </div>
 
       <div class="footer-col  footer-col-2">
+        <div class="footer-title">plwonks</div>
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
@@ -44,7 +42,10 @@
       </div>
 
       <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
+        <ul class="contact-list">
+          <li><a href="https://github.com/wonks/wonks.github.io"><strong>Contribute to this site</strong></a></li>
+          <li>{{ site.email }}</li>
+        </ul>
       </div>
     </div>
 

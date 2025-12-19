@@ -129,11 +129,36 @@
 .site-footer {
   border-top: 1px solid $border-color-01;
   padding: $spacing-unit 0;
+  background-color: $iu-crimson;
+  color: white;
+
+  a {
+    color: white;
+
+    &:visited {
+      color: white;
+    }
+
+    &:hover {
+      color: white;
+      text-decoration-color: white;
+    }
+  }
+}
+
+.footer-title {
+  text-align: center;
+  font-family: Georgia, "Garamond", "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-bottom: $spacing-unit * .5;
+  color: white;
 }
 
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit * .5;
+  color: white;
 }
 
 .feed-subscribe .svg-icon {
@@ -149,7 +174,7 @@
 .footer-col-wrapper,
 .social-links {
   @include relative-font-size(0.9375);
-  color: $brand-color-dimmed;
+  color: white;
 }
 
 .footer-col {

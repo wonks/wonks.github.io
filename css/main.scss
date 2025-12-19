@@ -145,6 +145,22 @@ th {
   background-color: transparent;  // Remove zebra striping
 }
 
+// Adjunct and emeriti list styling
+#adjunct-emeriti-list td {
+  vertical-align: top;
+  padding: 10px 10px;
+}
+
+#adjunct-emeriti-list,
+#adjunct-emeriti-list th,
+#adjunct-emeriti-list td {
+  border: none;
+}
+
+#adjunct-emeriti-list tr:nth-child(even) {
+  background-color: transparent;  // Remove zebra striping
+}
+
 table.no-border,
 table.no-border th,
 table.no-border td {
