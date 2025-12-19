@@ -8,6 +8,10 @@
   line-height: $base-line-height * $base-font-size * 2.25;
   background-color: $background-color;
   border-bottom: 1px solid $border-color-01;
+
+  @include media-query($on-palm) {
+    border-bottom: none;
+  }
 }
 
 .site-title {
