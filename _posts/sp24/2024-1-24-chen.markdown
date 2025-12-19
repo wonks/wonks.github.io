@@ -53,4 +53,4 @@ coercion calculi (a la Henglein), thereby expanding the coercion-based theory of
 gradual typing.
 
 ([Tianyu](https://homes.luddy.indiana.edu/chen512) is a PhD student
-advised by Prof. [Jeremy Siek](https://wphomes.soic.indiana.edu/jsiek).)
+advised by Prof. Jeremy Siek.)
