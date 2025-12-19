@@ -22,7 +22,7 @@ $spacing-unit:     30px;
 // ---------------
 $iu-crimson:            #7D110c;
 $brand-color:           $iu-crimson;
-$brand-color-light:     lighten($brand-color, 40%);
+$brand-color-light:     lighten($brand-color, 15%);
 $brand-color-dimmed:    darken($brand-color, 11%);
 $brand-color-dark:      darken($brand-color, 25%);
 
@@ -41,7 +41,7 @@ $site-title-color:      $brand-color-dark;
 // Link Colors
 // -----------
 $link-base-color:       $brand-color;
-$link-visited-color:    darken($brand-color, 15%);
+$link-visited-color:    $brand-color-light;
 $link-hover-color:      $text-color;
 
 // Border Colors
