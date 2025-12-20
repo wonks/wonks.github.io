@@ -22,23 +22,24 @@ layout: default
   <!-- Pagination links -->
   <div align="center">
   <div class="pagination">
+    <i class="fa-solid fa-arrow-left"></i>
+    <strong>
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="previous">Prev</a>
     {% else %}
       <span class="previous">Prev</span>
     {% endif %}
-      |
-      <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      |
+      <span class="page_number ">&emsp;(Page {{ paginator.page }} of {{ paginator.total_pages }})&emsp;</span>
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path }}" class="next">Next</a>
     {% else %}
       <span class="next ">Next</span>
     {% endif %}
+    </strong>
+    <i class="fa-solid fa-arrow-right"></i>
   </div>
+  <br>
+  <p class="rss-subscribe"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS <i class="fa-solid fa-rss"></i></a> now!</strong></p>
   </div>
-
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
