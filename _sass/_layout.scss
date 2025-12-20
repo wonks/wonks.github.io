@@ -204,17 +204,6 @@
   }
 }
 
-@media screen and (max-width: $on-palm) {
-  .footer-col-1,
-  .footer-col-3 {
-    display: none;
-  }
-
-  .footer-col-2 {
-    width: 100%;
-  }
-}
-
 @media screen and (min-width: $on-medium) {
   .footer-col-wrapper {
     display: flex

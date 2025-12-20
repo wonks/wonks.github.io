@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Programming language enthusiasts from Indiana University
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://wonks.github.io" # the base hostname & protocol for your site
+github_username: wonks
 plugins:
   - jekyll-paginate
 paginate_path: "/talks/page:num/"
