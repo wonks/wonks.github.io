@@ -5,9 +5,10 @@ authors: "Yin Wang"
 date:    2012-02-10 04:15:00 
 categories: Wang Spring2012
 --- 
-## Abstract
 
-(Slides)[http://www.cs.indiana.edu/~yw21/slides/ydiff-slides.pdf]
+[**Slides**](https://web.archive.org/web/20131030000419/http://www.cs.indiana.edu/~yw21/slides/ydiff-slides.pdf)
+
+## Abstract
 
 In this talk, I will discuss the design of a structural comparison
 tool for programs which compare programs not by their text, but by
