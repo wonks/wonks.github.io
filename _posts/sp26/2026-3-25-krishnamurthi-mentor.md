@@ -2,14 +2,14 @@
 layout:  post
 title:   "The Story of Arjun Guha, or: the Arc of a Research Project"
 authors: "Shriram Krishnamurthi"
-date:    2026-3-25 00:11:30
+date:    2026-3-25 00:16:00
 categories: Krishnamurthi Spring2026
 ---
 
 ## Time and Location
 
 * **Date:** Wednesday, March 25
-* **Time:** 11:30AM-12:45PM
+* **Time:** 4:00PM-5:30PM
 * **Location:** Luddy Hall (BLIF) 4012
 
 ## Abstract
