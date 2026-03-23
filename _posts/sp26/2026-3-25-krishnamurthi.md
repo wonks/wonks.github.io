@@ -2,15 +2,15 @@
 layout:  post
 title:   "The Cognitive and Human Factors of Formal Methods"
 authors: "Shriram Krishnamurthi"
-date:    2026-3-25 00:01:00
+date:    2026-3-25 00:10:00
 categories: Krishnamurthi Spring2026
 ---
 
 ## Time and Location
 
 * **Date:** Wednesday, March 25
-* **Time:** TBA
-* **Location:** Luddy Hall TBA
+* **Time:** 10:00-11:30AM
+* **Location:** Luddy Hall (BLIF) 4012
 
 ## Abstract
 
