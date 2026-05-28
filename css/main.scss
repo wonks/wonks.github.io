@@ -162,7 +162,21 @@ table.no-border ul {
   margin-left: 10px;
 }
 
-// Make emeriti and students tables single column on phones
+.compact-people-list {
+  columns: 3 16rem;
+  column-gap: 2rem;
+  font-size: 0.95em;
+  line-height: 1.35;
+  list-style: none;
+  margin-left: 10px;
+}
+
+.compact-people-list li {
+  break-inside: avoid;
+  margin-bottom: 3px;
+}
+
+// Make emeriti and member tables single column on phones
 @media (max-width: 600px) {
   table.no-border {
     display: block;
@@ -199,6 +213,10 @@ table.no-border ul {
     width: 100%;
     box-sizing: border-box;
     overflow-wrap: break-word;
+  }
+
+  .compact-people-list {
+    columns: 1;
   }
 }
 
