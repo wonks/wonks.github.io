@@ -41,7 +41,7 @@
   }
 
   .nav-item {
-    color: $text-color;
+    color: $iu-crimson;
     font-family: $base-sans-medium-font-family;
     font-weight: normal;
     &:not(:last-child) {
@@ -117,7 +117,7 @@
       display: block;
       margin-right: $spacing-unit * 0.5;
       padding: 5px 0;
-      color: $text-color;
+      color: $iu-crimson;
       line-height: $base-line-height;
     }
   }
