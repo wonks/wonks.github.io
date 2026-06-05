@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PL Wonks">
+  <rect width="64" height="64" fill="#7D110c"/>
+  <g fill="#fff" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="700">
+    <text x="6" y="50">P</text>
+    <text x="24" y="50">L</text>
+  </g>
+</svg>
