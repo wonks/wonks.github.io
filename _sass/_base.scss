@@ -104,7 +104,14 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   color: $heading-color;
-  font-weight: 500;
+  font-family: $base-serif-font-family;
+  font-weight: 600;
+}
+
+strong,
+b {
+  font-family: $base-sans-bold-font-family;
+  font-weight: normal;
 }
 
 

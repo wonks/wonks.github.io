@@ -42,6 +42,8 @@
 
   .nav-item {
     color: $text-color;
+    font-family: $base-sans-medium-font-family;
+    font-weight: normal;
     &:not(:last-child) {
       margin-right: $spacing-unit * 0.5;
     }
@@ -148,8 +150,8 @@
 
 .footer-title {
   text-align: center;
-  font-family: Georgia, "Garamond", "Times New Roman", serif;
-  font-weight: bold;
+  font-family: "GeorgiaProBold", $base-serif-font-family;
+  font-weight: normal;
   font-size: 1.5rem;
   margin-bottom: $spacing-unit * .5;
   color: white;
@@ -276,7 +278,10 @@
 
 .post-meta {
   .bullet-divider { padding-inline: 15px }
-  .meta-label { font-weight: 600 }
+  .meta-label {
+    font-family: $base-sans-medium-font-family;
+    font-weight: normal;
+  }
 
   .force-inline {
     display: inline;
@@ -392,7 +397,8 @@
         border: 1px dashed;
       }
       &.current-page {
-        font-weight: bold;
+        font-family: $base-sans-medium-font-family;
+        font-weight: normal;
       }
     }
   }
